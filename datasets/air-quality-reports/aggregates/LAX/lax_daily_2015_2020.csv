@@ -1,0 +1,2010 @@
+Date,State Name,county Name,State Code,County Code,AQI,Category,Defining Parameter,Defining Site,Number of Sites Reporting
+2015-01-01,California,Los Angeles,6,37,156,Unhealthy,PM2.5,06-037-1201,16
+2015-01-02,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,14
+2015-01-03,California,Los Angeles,6,37,106,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,17
+2015-01-04,California,Los Angeles,6,37,107,Unhealthy for Sensitive Groups,PM2.5,06-037-4004,16
+2015-01-05,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-4004,16
+2015-01-06,California,Los Angeles,6,37,63,Moderate,PM10,06-037-4006,17
+2015-01-07,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4004,15
+2015-01-08,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-1103,13
+2015-01-09,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,14
+2015-01-10,California,Los Angeles,6,37,123,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,16
+2015-01-11,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-1103,16
+2015-01-12,California,Los Angeles,6,37,103,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2015-01-13,California,Los Angeles,6,37,114,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2015-01-14,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-4004,15
+2015-01-15,California,Los Angeles,6,37,46,Good,PM2.5,06-037-4004,16
+2015-01-16,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4004,14
+2015-01-17,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-4004,15
+2015-01-18,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,PM2.5,06-037-1302,16
+2015-01-19,California,Los Angeles,6,37,110,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,15
+2015-01-20,California,Los Angeles,6,37,153,Unhealthy,PM2.5,06-037-1103,15
+2015-01-21,California,Los Angeles,6,37,159,Unhealthy,PM2.5,06-037-1103,16
+2015-01-22,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-4004,16
+2015-01-23,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-4004,15
+2015-01-24,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1302,16
+2015-01-25,California,Los Angeles,6,37,86,Moderate,NO2,06-037-5005,15
+2015-01-26,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,14
+2015-01-27,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4004,15
+2015-01-28,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2015-01-29,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-4004,16
+2015-01-30,California,Los Angeles,6,37,78,Moderate,PM2.5,06-037-1201,17
+2015-01-31,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1103,15
+2015-02-01,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-4004,16
+2015-02-02,California,Los Angeles,6,37,87,Moderate,PM2.5,06-037-4004,17
+2015-02-03,California,Los Angeles,6,37,120,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,14
+2015-02-04,California,Los Angeles,6,37,156,Unhealthy,PM2.5,06-037-1103,14
+2015-02-05,California,Los Angeles,6,37,149,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2015-02-06,California,Los Angeles,6,37,141,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,14
+2015-02-07,California,Los Angeles,6,37,98,Moderate,PM2.5,06-037-1103,16
+2015-02-08,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1201,17
+2015-02-09,California,Los Angeles,6,37,48,Good,PM2.5,06-037-0016,16
+2015-02-10,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-4004,16
+2015-02-11,California,Los Angeles,6,37,55,Moderate,NO2,06-037-1103,15
+2015-02-12,California,Los Angeles,6,37,51,Moderate,NO2,06-037-1103,13
+2015-02-13,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2015-02-14,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-6012,16
+2015-02-15,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-1701,16
+2015-02-16,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2015-02-17,California,Los Angeles,6,37,110,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,16
+2015-02-18,California,Los Angeles,6,37,127,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,15
+2015-02-19,California,Los Angeles,6,37,152,Unhealthy,PM2.5,06-037-1103,15
+2015-02-20,California,Los Angeles,6,37,130,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,15
+2015-02-21,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-1201,15
+2015-02-22,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,16
+2015-02-23,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,17
+2015-02-24,California,Los Angeles,6,37,43,Good,Ozone,06-037-6012,15
+2015-02-25,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,14
+2015-02-26,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-1103,17
+2015-02-27,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1201,13
+2015-02-28,California,Los Angeles,6,37,42,Good,Ozone,06-037-6012,16
+2015-03-01,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,17
+2015-03-02,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2015-03-03,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,15
+2015-03-04,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,16
+2015-03-05,California,Los Angeles,6,37,54,Moderate,NO2,06-037-1103,15
+2015-03-06,California,Los Angeles,6,37,54,Moderate,NO2,06-037-4006,16
+2015-03-07,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-4008,17
+2015-03-08,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1701,16
+2015-03-09,California,Los Angeles,6,37,91,Moderate,PM2.5,06-037-1103,16
+2015-03-10,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2015-03-11,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-4004,16
+2015-03-12,California,Los Angeles,6,37,60,Moderate,NO2,06-037-4006,16
+2015-03-13,California,Los Angeles,6,37,61,Moderate,NO2,06-037-4006,17
+2015-03-14,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-1602,16
+2015-03-15,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-1602,16
+2015-03-16,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-0113,17
+2015-03-17,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,16
+2015-03-18,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1201,16
+2015-03-19,California,Los Angeles,6,37,125,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,17
+2015-03-20,California,Los Angeles,6,37,114,Unhealthy for Sensitive Groups,PM2.5,06-037-4004,15
+2015-03-21,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,16
+2015-03-22,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1201,17
+2015-03-23,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-0016,16
+2015-03-24,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1103,15
+2015-03-25,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1103,17
+2015-03-26,California,Los Angeles,6,37,62,Moderate,NO2,06-037-5005,16
+2015-03-27,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-1103,15
+2015-03-28,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,17
+2015-03-29,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-0016,16
+2015-03-30,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2015-03-31,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,17
+2015-04-01,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,16
+2015-04-02,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-1701,16
+2015-04-03,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-4008,17
+2015-04-04,California,Los Angeles,6,37,134,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2015-04-05,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,16
+2015-04-06,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-1701,17
+2015-04-07,California,Los Angeles,6,37,46,Good,Ozone,06-037-1701,15
+2015-04-08,California,Los Angeles,6,37,49,Good,Ozone,06-037-6012,15
+2015-04-09,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-6012,16
+2015-04-10,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2015-04-11,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2015-04-12,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2015-04-13,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2015-04-14,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-1103,16
+2015-04-15,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-1701,17
+2015-04-16,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-1701,16
+2015-04-17,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,16
+2015-04-18,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2015-04-19,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-04-20,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-04-21,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-1201,16
+2015-04-22,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-9033,15
+2015-04-23,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-0016,16
+2015-04-24,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-0016,17
+2015-04-25,California,Los Angeles,6,37,50,Good,PM2.5,06-037-0016,16
+2015-04-26,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-1701,16
+2015-04-27,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-04-28,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2015-04-29,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-04-30,California,Los Angeles,6,37,125,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,17
+2015-05-01,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,15
+2015-05-02,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1103,16
+2015-05-03,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-0016,17
+2015-05-04,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,15
+2015-05-05,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-4002,16
+2015-05-06,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2015-05-07,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1103,15
+2015-05-08,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,15
+2015-05-09,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1103,16
+2015-05-10,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-1701,16
+2015-05-11,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,16
+2015-05-12,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-05-13,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,16
+2015-05-14,California,Los Angeles,6,37,49,Good,Ozone,06-037-9033,16
+2015-05-15,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-9033,17
+2015-05-16,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2015-05-17,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2015-05-18,California,Los Angeles,6,37,79,Moderate,PM2.5,06-037-4002,17
+2015-05-19,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2015-05-20,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2015-05-21,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,17
+2015-05-22,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,16
+2015-05-23,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-9033,16
+2015-05-24,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,17
+2015-05-25,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,16
+2015-05-26,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2015-05-27,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2015-05-28,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-05-29,California,Los Angeles,6,37,159,Unhealthy,Ozone,06-037-6012,15
+2015-05-30,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-1201,17
+2015-05-31,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,16
+2015-06-01,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-1701,16
+2015-06-02,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-9033,17
+2015-06-03,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-9033,16
+2015-06-04,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2015-06-05,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2015-06-06,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-06-07,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-06-08,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-06-09,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,15
+2015-06-10,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2015-06-11,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-06-12,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,14
+2015-06-13,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2015-06-14,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-1701,15
+2015-06-15,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,15
+2015-06-16,California,Los Angeles,6,37,174,Unhealthy,Ozone,06-037-9033,15
+2015-06-17,California,Los Angeles,6,37,192,Unhealthy,Ozone,06-037-9033,16
+2015-06-18,California,Los Angeles,6,37,174,Unhealthy,Ozone,06-037-1701,14
+2015-06-19,California,Los Angeles,6,37,190,Unhealthy,Ozone,06-037-6012,15
+2015-06-20,California,Los Angeles,6,37,203,Very Unhealthy,Ozone,06-037-6012,16
+2015-06-21,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,15
+2015-06-22,California,Los Angeles,6,37,187,Unhealthy,Ozone,06-037-9033,15
+2015-06-23,California,Los Angeles,6,37,177,Unhealthy,Ozone,06-037-9033,16
+2015-06-24,California,Los Angeles,6,37,195,Unhealthy,Ozone,06-037-9033,14
+2015-06-25,California,Los Angeles,6,37,179,Unhealthy,Ozone,06-037-9033,15
+2015-06-26,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2015-06-27,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2015-06-28,California,Los Angeles,6,37,166,Unhealthy,Ozone,06-037-0016,15
+2015-06-29,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-06-30,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-9033,13
+2015-07-01,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,14
+2015-07-02,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-07-03,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0016,15
+2015-07-04,California,Los Angeles,6,37,111,Unhealthy for Sensitive Groups,PM2.5,06-037-0016,15
+2015-07-05,California,Los Angeles,6,37,167,Unhealthy,PM2.5,06-037-0016,16
+2015-07-06,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,14
+2015-07-07,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2015-07-08,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,15
+2015-07-09,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,13
+2015-07-10,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,15
+2015-07-11,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-9033,16
+2015-07-12,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,15
+2015-07-13,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,15
+2015-07-14,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1201,17
+2015-07-15,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-07-16,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-07-17,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2015-07-18,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,16
+2015-07-19,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,16
+2015-07-20,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,17
+2015-07-21,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2015-07-22,California,Los Angeles,6,37,85,Moderate,PM10,06-037-9033,16
+2015-07-23,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-9033,17
+2015-07-24,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-1701,16
+2015-07-25,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-0016,16
+2015-07-26,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,17
+2015-07-27,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-07-28,California,Los Angeles,6,37,177,Unhealthy,Ozone,06-037-9033,15
+2015-07-29,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-1701,17
+2015-07-30,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-07-31,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-08-01,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-1701,17
+2015-08-02,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-1701,15
+2015-08-03,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2015-08-04,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-1701,17
+2015-08-05,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-06,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,16
+2015-08-07,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,17
+2015-08-08,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-09,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-10,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2015-08-11,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2015-08-12,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-1701,15
+2015-08-13,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-14,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-15,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-08-16,California,Los Angeles,6,37,177,Unhealthy,Ozone,06-037-1701,16
+2015-08-17,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-18,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-9033,15
+2015-08-19,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-20,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-9033,14
+2015-08-21,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-9033,15
+2015-08-22,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-9033,17
+2015-08-23,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-1701,15
+2015-08-24,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-0016,14
+2015-08-25,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,17
+2015-08-26,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-9033,14
+2015-08-27,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-0016,15
+2015-08-28,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-08-29,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2015-08-30,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-6012,15
+2015-08-31,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2015-09-01,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2015-09-02,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-09-03,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,17
+2015-09-04,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-09-05,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-09-06,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-09-07,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-0113,16
+2015-09-08,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-1701,16
+2015-09-09,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,17
+2015-09-10,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-9033,15
+2015-09-11,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2015-09-12,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,17
+2015-09-13,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-1701,15
+2015-09-14,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,16
+2015-09-15,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1201,17
+2015-09-16,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1201,16
+2015-09-17,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,16
+2015-09-18,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2015-09-19,California,Los Angeles,6,37,179,Unhealthy,Ozone,06-037-0016,16
+2015-09-20,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-09-21,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2015-09-22,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-09-23,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-6012,16
+2015-09-24,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-0016,17
+2015-09-25,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-09-26,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-1701,16
+2015-09-27,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2015-09-28,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2015-09-29,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2015-09-30,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-10-01,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2015-10-02,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1103,16
+2015-10-03,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2015-10-04,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-9033,16
+2015-10-05,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-9033,16
+2015-10-06,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,17
+2015-10-07,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1201,16
+2015-10-08,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2015-10-09,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-5005,16
+2015-10-10,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-5005,15
+2015-10-11,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-5005,16
+2015-10-12,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-5005,17
+2015-10-13,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2015-10-14,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-1103,16
+2015-10-15,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1103,17
+2015-10-16,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,15
+2015-10-17,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1103,16
+2015-10-18,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,17
+2015-10-19,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2015-10-20,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1103,16
+2015-10-21,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1103,16
+2015-10-22,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-9033,16
+2015-10-23,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1103,15
+2015-10-24,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-0016,16
+2015-10-25,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,16
+2015-10-26,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-5005,16
+2015-10-27,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1103,16
+2015-10-28,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1103,16
+2015-10-29,California,Los Angeles,6,37,46,Good,Ozone,06-037-9033,16
+2015-10-30,California,Los Angeles,6,37,52,Moderate,NO2,06-037-1103,17
+2015-10-31,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-6012,16
+2015-11-01,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2015-11-02,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,17
+2015-11-03,California,Los Angeles,6,37,45,Good,PM2.5,06-037-1201,16
+2015-11-04,California,Los Angeles,6,37,42,Good,Ozone,06-037-9033,16
+2015-11-05,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1201,17
+2015-11-06,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4004,16
+2015-11-07,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4008,16
+2015-11-08,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,17
+2015-11-09,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2015-11-10,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,16
+2015-11-11,California,Los Angeles,6,37,48,Good,NO2,06-037-4006,16
+2015-11-12,California,Los Angeles,6,37,54,Moderate,NO2,06-037-1103,15
+2015-11-13,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4006,16
+2015-11-14,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1302,17
+2015-11-15,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,16
+2015-11-16,California,Los Angeles,6,37,40,Good,Ozone,06-037-9033,16
+2015-11-17,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,17
+2015-11-18,California,Los Angeles,6,37,67,Moderate,NO2,06-037-4008,16
+2015-11-19,California,Los Angeles,6,37,72,Moderate,NO2,06-037-4008,16
+2015-11-20,California,Los Angeles,6,37,73,Moderate,NO2,06-037-1103,17
+2015-11-21,California,Los Angeles,6,37,64,Moderate,NO2,06-037-4008,16
+2015-11-22,California,Los Angeles,6,37,48,Good,NO2,06-037-4006,16
+2015-11-23,California,Los Angeles,6,37,61,Moderate,NO2,06-037-4008,17
+2015-11-24,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,16
+2015-11-25,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2015-11-26,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-1302,17
+2015-11-27,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,16
+2015-11-28,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,16
+2015-11-29,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,17
+2015-11-30,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,16
+2015-12-01,California,Los Angeles,6,37,72,Moderate,NO2,06-037-4008,16
+2015-12-02,California,Los Angeles,6,37,63,Moderate,NO2,06-037-4008,16
+2015-12-03,California,Los Angeles,6,37,61,Moderate,NO2,06-037-4008,16
+2015-12-04,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,16
+2015-12-05,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-1201,17
+2015-12-06,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,16
+2015-12-07,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,16
+2015-12-08,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-4008,16
+2015-12-09,California,Los Angeles,6,37,88,Moderate,PM2.5,06-037-1103,15
+2015-12-10,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-1201,16
+2015-12-11,California,Los Angeles,6,37,47,Good,NO2,06-037-4008,17
+2015-12-12,California,Los Angeles,6,37,39,Good,Ozone,06-037-9033,16
+2015-12-13,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4004,16
+2015-12-14,California,Los Angeles,6,37,38,Good,Ozone,06-037-9033,17
+2015-12-15,California,Los Angeles,6,37,53,Moderate,NO2,06-037-4008,15
+2015-12-16,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4008,15
+2015-12-17,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,16
+2015-12-18,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,16
+2015-12-19,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1201,16
+2015-12-20,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-1201,17
+2015-12-21,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-1201,16
+2015-12-22,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,16
+2015-12-23,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,17
+2015-12-24,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,16
+2015-12-25,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2015-12-26,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1302,17
+2015-12-27,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-4008,16
+2015-12-28,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,16
+2015-12-29,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-4008,17
+2015-12-30,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-1201,16
+2015-12-31,California,Los Angeles,6,37,84,Moderate,PM2.5,06-037-4008,16
+2016-01-01,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,17
+2016-01-02,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-1201,16
+2016-01-03,California,Los Angeles,6,37,100,Moderate,PM2.5,06-037-4008,16
+2016-01-04,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2016-01-05,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,16
+2016-01-06,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,15
+2016-01-07,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,15
+2016-01-08,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,15
+2016-01-09,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1201,15
+2016-01-10,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1201,15
+2016-01-11,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-4008,15
+2016-01-12,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-4008,14
+2016-01-13,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-4008,17
+2016-01-14,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1103,15
+2016-01-15,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-1103,16
+2016-01-16,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1201,17
+2016-01-17,California,Los Angeles,6,37,100,Moderate,PM2.5,06-037-4004,15
+2016-01-18,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1201,16
+2016-01-19,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-0016,17
+2016-01-20,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-1201,16
+2016-01-21,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4008,16
+2016-01-22,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-4004,16
+2016-01-23,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1103,16
+2016-01-24,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-4008,16
+2016-01-25,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-4008,17
+2016-01-26,California,Los Angeles,6,37,68,Moderate,NO2,06-037-4008,16
+2016-01-27,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,16
+2016-01-28,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-4008,17
+2016-01-29,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1103,15
+2016-01-30,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1201,16
+2016-01-31,California,Los Angeles,6,37,40,Good,Ozone,06-037-5005,17
+2016-02-01,California,Los Angeles,6,37,47,Good,NO2,06-037-4008,16
+2016-02-02,California,Los Angeles,6,37,52,Moderate,NO2,06-037-4008,15
+2016-02-03,California,Los Angeles,6,37,56,Moderate,NO2,06-037-4008,17
+2016-02-04,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4008,16
+2016-02-05,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,15
+2016-02-06,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,17
+2016-02-07,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4008,16
+2016-02-08,California,Los Angeles,6,37,87,Moderate,NO2,06-037-4008,16
+2016-02-09,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,16
+2016-02-10,California,Los Angeles,6,37,68,Moderate,NO2,06-037-4008,16
+2016-02-11,California,Los Angeles,6,37,84,Moderate,PM2.5,06-037-4008,16
+2016-02-12,California,Los Angeles,6,37,90,Moderate,PM2.5,06-037-4008,17
+2016-02-13,California,Los Angeles,6,37,113,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2016-02-14,California,Los Angeles,6,37,95,Moderate,PM2.5,06-037-4004,16
+2016-02-15,California,Los Angeles,6,37,80,Moderate,NO2,06-037-5005,16
+2016-02-16,California,Los Angeles,6,37,63,Moderate,NO2,06-037-4008,15
+2016-02-17,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1103,15
+2016-02-18,California,Los Angeles,6,37,44,Good,Ozone,06-037-1201,17
+2016-02-19,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1103,16
+2016-02-20,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-4008,16
+2016-02-21,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1103,17
+2016-02-22,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1103,16
+2016-02-23,California,Los Angeles,6,37,67,Moderate,NO2,06-037-4008,15
+2016-02-24,California,Los Angeles,6,37,55,Moderate,NO2,06-037-4008,17
+2016-02-25,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-1201,16
+2016-02-26,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-1103,16
+2016-02-27,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-0016,17
+2016-02-28,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2016-02-29,California,Los Angeles,6,37,109,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2016-03-01,California,Los Angeles,6,37,134,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2016-03-02,California,Los Angeles,6,37,124,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2016-03-03,California,Los Angeles,6,37,86,Moderate,PM2.5,06-037-1103,16
+2016-03-04,California,Los Angeles,6,37,85,Moderate,PM2.5,06-037-1103,17
+2016-03-05,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,16
+2016-03-06,California,Los Angeles,6,37,45,Good,Ozone,06-037-9033,16
+2016-03-07,California,Los Angeles,6,37,44,Good,Ozone,06-037-5005,16
+2016-03-08,California,Los Angeles,6,37,44,Good,Ozone,06-037-9033,15
+2016-03-09,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1103,15
+2016-03-10,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1103,16
+2016-03-11,California,Los Angeles,6,37,45,Good,PM2.5,06-037-1201,15
+2016-03-12,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,16
+2016-03-13,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2016-03-14,California,Los Angeles,6,37,43,Good,Ozone,06-037-9033,16
+2016-03-15,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2016-03-16,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-5005,16
+2016-03-17,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-9033,16
+2016-03-18,California,Los Angeles,6,37,87,Moderate,PM2.5,06-037-1103,16
+2016-03-19,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-03-20,California,Los Angeles,6,37,113,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2016-03-21,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1103,16
+2016-03-22,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2016-03-23,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4008,15
+2016-03-24,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-4008,16
+2016-03-25,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-1701,17
+2016-03-26,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-0016,16
+2016-03-27,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-03-28,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,17
+2016-03-29,California,Los Angeles,6,37,45,Good,PM2.5,06-037-1201,16
+2016-03-30,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2016-03-31,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1103,17
+2016-04-01,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2016-04-02,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2016-04-03,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-0002,17
+2016-04-04,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-1201,16
+2016-04-05,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2016-04-06,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-6012,17
+2016-04-07,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,16
+2016-04-08,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-0016,15
+2016-04-09,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,17
+2016-04-10,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1201,16
+2016-04-11,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2016-04-12,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,17
+2016-04-13,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2016-04-14,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2016-04-15,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,17
+2016-04-16,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-0016,16
+2016-04-17,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0002,16
+2016-04-18,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-04-19,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2016-04-20,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2016-04-21,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-04-22,California,Los Angeles,6,37,50,Good,Ozone,06-037-9033,15
+2016-04-23,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-9033,16
+2016-04-24,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,17
+2016-04-25,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-4008,16
+2016-04-26,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-0113,15
+2016-04-27,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-1201,16
+2016-04-28,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4008,16
+2016-04-29,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-9033,16
+2016-04-30,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1201,17
+2016-05-01,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-6012,16
+2016-05-02,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-6012,16
+2016-05-03,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,17
+2016-05-04,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2016-05-05,California,Los Angeles,6,37,42,Good,PM2.5,06-037-0016,16
+2016-05-06,California,Los Angeles,6,37,44,Good,Ozone,06-037-9033,17
+2016-05-07,California,Los Angeles,6,37,46,Good,Ozone,06-037-9033,16
+2016-05-08,California,Los Angeles,6,37,44,Good,Ozone,06-037-9033,16
+2016-05-09,California,Los Angeles,6,37,50,Good,Ozone,06-037-9033,17
+2016-05-10,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2016-05-11,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-05-12,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-05-13,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-05-14,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2016-05-15,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,17
+2016-05-16,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2016-05-17,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-6012,16
+2016-05-18,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,17
+2016-05-19,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,16
+2016-05-20,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-9033,16
+2016-05-21,California,Los Angeles,6,37,48,Good,Ozone,06-037-9033,17
+2016-05-22,California,Los Angeles,6,37,48,Good,Ozone,06-037-9033,16
+2016-05-23,California,Los Angeles,6,37,49,Good,Ozone,06-037-9033,16
+2016-05-24,California,Los Angeles,6,37,47,Good,PM2.5,06-037-1201,16
+2016-05-25,California,Los Angeles,6,37,42,Good,Ozone,06-037-9033,15
+2016-05-26,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,15
+2016-05-27,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,17
+2016-05-28,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-05-29,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,16
+2016-05-30,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-05-31,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-9033,15
+2016-06-01,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,15
+2016-06-02,California,Los Angeles,6,37,190,Unhealthy,Ozone,06-037-6012,17
+2016-06-03,California,Los Angeles,6,37,166,Unhealthy,Ozone,06-037-6012,16
+2016-06-04,California,Los Angeles,6,37,209,Very Unhealthy,Ozone,06-037-0016,15
+2016-06-05,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2016-06-06,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-06-07,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,16
+2016-06-08,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,17
+2016-06-09,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-06-10,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2016-06-11,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-9033,17
+2016-06-12,California,Los Angeles,6,37,49,Good,Ozone,06-037-9033,16
+2016-06-13,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-9033,16
+2016-06-14,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,17
+2016-06-15,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2016-06-16,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,16
+2016-06-17,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-6012,17
+2016-06-18,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2016-06-19,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-06-20,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2016-06-21,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-06-22,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-06-23,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-6012,17
+2016-06-24,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-06-25,California,Los Angeles,6,37,187,Unhealthy,Ozone,06-037-6012,16
+2016-06-26,California,Los Angeles,6,37,195,Unhealthy,Ozone,06-037-0016,17
+2016-06-27,California,Los Angeles,6,37,177,Unhealthy,Ozone,06-037-6012,16
+2016-06-28,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0016,14
+2016-06-29,California,Los Angeles,6,37,210,Very Unhealthy,Ozone,06-037-6012,16
+2016-06-30,California,Los Angeles,6,37,166,Unhealthy,Ozone,06-037-6012,16
+2016-07-01,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-07-02,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-07-03,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-0016,16
+2016-07-04,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,16
+2016-07-05,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-07-06,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-07-07,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-07-08,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2016-07-09,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-07-10,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-0016,16
+2016-07-11,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-07-12,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-07-13,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,15
+2016-07-14,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-0016,17
+2016-07-15,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2016-07-16,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-07-17,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-07-18,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2016-07-19,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-07-20,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2016-07-21,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-07-22,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-0016,16
+2016-07-23,California,Los Angeles,6,37,201,Very Unhealthy,PM2.5,06-037-9034,17
+2016-07-24,California,Los Angeles,6,37,156,Unhealthy,PM2.5,06-037-9033,16
+2016-07-25,California,Los Angeles,6,37,134,Unhealthy for Sensitive Groups,PM2.5,06-037-9033,16
+2016-07-26,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2016-07-27,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-07-28,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-6012,15
+2016-07-29,California,Los Angeles,6,37,206,Very Unhealthy,Ozone,06-037-6012,16
+2016-07-30,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-07-31,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-08-01,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-08-02,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-08-03,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-08-04,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-08-05,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-08-06,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-08-07,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-08-08,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,15
+2016-08-09,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2016-08-10,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-08-11,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-08-12,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-1201,16
+2016-08-13,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2016-08-14,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-0016,16
+2016-08-15,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2016-08-16,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,17
+2016-08-17,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-08-18,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-0016,16
+2016-08-19,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,16
+2016-08-20,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-1201,16
+2016-08-21,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-0016,16
+2016-08-22,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-1201,17
+2016-08-23,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-08-24,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2016-08-25,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2016-08-26,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,16
+2016-08-27,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2016-08-28,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2016-08-29,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-0016,16
+2016-08-30,California,Los Angeles,6,37,187,Unhealthy,Ozone,06-037-0016,16
+2016-08-31,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-0016,17
+2016-09-01,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-9033,16
+2016-09-02,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-6012,16
+2016-09-03,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,17
+2016-09-04,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2016-09-05,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-1201,16
+2016-09-06,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-6012,17
+2016-09-07,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-09-08,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,16
+2016-09-09,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,17
+2016-09-10,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-09-11,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1201,16
+2016-09-12,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1201,17
+2016-09-13,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1201,15
+2016-09-14,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,15
+2016-09-15,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-6012,16
+2016-09-16,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2016-09-17,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-09-18,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2016-09-19,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-1201,16
+2016-09-20,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2016-09-21,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,16
+2016-09-22,California,Los Angeles,6,37,77,Moderate,PM10,06-037-9033,16
+2016-09-23,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-4008,15
+2016-09-24,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-0113,17
+2016-09-25,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2016-09-26,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-5005,16
+2016-09-27,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-1201,17
+2016-09-28,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,16
+2016-09-29,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,16
+2016-09-30,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1201,16
+2016-10-01,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,15
+2016-10-02,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,15
+2016-10-03,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,16
+2016-10-04,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,15
+2016-10-05,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-6012,15
+2016-10-06,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-0016,17
+2016-10-07,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-1201,16
+2016-10-08,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2016-10-09,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2016-10-10,California,Los Angeles,6,37,63,Moderate,NO2,06-037-4008,16
+2016-10-11,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2016-10-12,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-1201,16
+2016-10-13,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-1201,15
+2016-10-14,California,Los Angeles,6,37,82,Moderate,PM2.5,06-037-1103,16
+2016-10-15,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,17
+2016-10-16,California,Los Angeles,6,37,53,Moderate,PM10,06-037-9033,16
+2016-10-17,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,16
+2016-10-18,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,17
+2016-10-19,California,Los Angeles,6,37,81,Moderate,NO2,06-037-4008,16
+2016-10-20,California,Los Angeles,6,37,71,Moderate,NO2,06-037-4008,15
+2016-10-21,California,Los Angeles,6,37,70,Moderate,NO2,06-037-4008,17
+2016-10-22,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2016-10-23,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,16
+2016-10-24,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,16
+2016-10-25,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,16
+2016-10-26,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,16
+2016-10-27,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,17
+2016-10-28,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,16
+2016-10-29,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1201,16
+2016-10-30,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,17
+2016-10-31,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,15
+2016-11-01,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2016-11-02,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,16
+2016-11-03,California,Los Angeles,6,37,80,Moderate,NO2,06-037-4008,16
+2016-11-04,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,16
+2016-11-05,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-1103,17
+2016-11-06,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1103,16
+2016-11-07,California,Los Angeles,6,37,82,Moderate,PM2.5,06-037-1103,16
+2016-11-08,California,Los Angeles,6,37,95,Moderate,NO2,06-037-4008,17
+2016-11-09,California,Los Angeles,6,37,65,Moderate,NO2,06-037-4008,16
+2016-11-10,California,Los Angeles,6,37,72,Moderate,NO2,06-037-4008,16
+2016-11-11,California,Los Angeles,6,37,68,Moderate,NO2,06-037-4008,17
+2016-11-12,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-4008,16
+2016-11-13,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-1201,16
+2016-11-14,California,Los Angeles,6,37,73,Moderate,NO2,06-037-4008,17
+2016-11-15,California,Los Angeles,6,37,86,Moderate,PM2.5,06-037-4008,16
+2016-11-16,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1103,16
+2016-11-17,California,Los Angeles,6,37,74,Moderate,NO2,06-037-4008,16
+2016-11-18,California,Los Angeles,6,37,54,Moderate,NO2,06-037-4008,15
+2016-11-19,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1201,16
+2016-11-20,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,16
+2016-11-21,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4008,16
+2016-11-22,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4008,16
+2016-11-23,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-4008,16
+2016-11-24,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-4004,16
+2016-11-25,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-1201,16
+2016-11-26,California,Los Angeles,6,37,87,Moderate,PM2.5,06-037-4008,16
+2016-11-27,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1103,16
+2016-11-28,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,16
+2016-11-29,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2016-11-30,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4008,16
+2016-12-01,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-4008,16
+2016-12-02,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4008,17
+2016-12-03,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,16
+2016-12-04,California,Los Angeles,6,37,89,Moderate,PM2.5,06-037-4008,16
+2016-12-05,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1302,17
+2016-12-06,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-6012,15
+2016-12-07,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1201,16
+2016-12-08,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-4008,17
+2016-12-09,California,Los Angeles,6,37,78,Moderate,PM2.5,06-037-0016,16
+2016-12-10,California,Los Angeles,6,37,116,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,16
+2016-12-11,California,Los Angeles,6,37,97,Moderate,PM2.5,06-037-6012,17
+2016-12-12,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-1201,16
+2016-12-13,California,Los Angeles,6,37,95,Moderate,PM2.5,06-037-0016,16
+2016-12-14,California,Los Angeles,6,37,135,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,17
+2016-12-15,California,Los Angeles,6,37,106,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,16
+2016-12-16,California,Los Angeles,6,37,39,Good,Ozone,06-037-5005,16
+2016-12-17,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1201,17
+2016-12-18,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-4008,16
+2016-12-19,California,Los Angeles,6,37,70,Moderate,NO2,06-037-4008,16
+2016-12-20,California,Los Angeles,6,37,77,Moderate,NO2,06-037-4008,17
+2016-12-21,California,Los Angeles,6,37,63,Moderate,NO2,06-037-4008,16
+2016-12-22,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,16
+2016-12-23,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,17
+2016-12-24,California,Los Angeles,6,37,45,Good,PM2.5,06-037-1201,16
+2016-12-25,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1201,15
+2016-12-26,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1302,17
+2016-12-27,California,Los Angeles,6,37,50,Good,NO2,06-037-4008,16
+2016-12-28,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4004,16
+2016-12-29,California,Los Angeles,6,37,60,Moderate,NO2,06-037-4008,17
+2016-12-30,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,16
+2016-12-31,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,11
+2017-01-01,California,Los Angeles,6,37,145,Unhealthy for Sensitive Groups,PM2.5,06-037-1302,17
+2017-01-02,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2017-01-03,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-4008,16
+2017-01-04,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1201,16
+2017-01-05,California,Los Angeles,6,37,43,Good,PM2.5,06-037-1201,16
+2017-01-06,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1201,15
+2017-01-07,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-1201,17
+2017-01-08,California,Los Angeles,6,37,82,Moderate,PM2.5,06-037-4008,15
+2017-01-09,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1201,15
+2017-01-10,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2017-01-11,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1103,16
+2017-01-12,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,16
+2017-01-13,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-4008,17
+2017-01-14,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-4008,16
+2017-01-15,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,16
+2017-01-16,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1201,17
+2017-01-17,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,16
+2017-01-18,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-4008,16
+2017-01-19,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,17
+2017-01-20,California,Los Angeles,6,37,41,Good,Ozone,06-037-1201,15
+2017-01-21,California,Los Angeles,6,37,44,Good,PM2.5,06-037-1201,16
+2017-01-22,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1201,17
+2017-01-23,California,Los Angeles,6,37,55,Moderate,NO2,06-037-4008,16
+2017-01-24,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4004,15
+2017-01-25,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-4008,16
+2017-01-26,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-4008,16
+2017-01-27,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4008,16
+2017-01-28,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-4008,17
+2017-01-29,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-4008,16
+2017-01-30,California,Los Angeles,6,37,77,Moderate,NO2,06-037-4008,16
+2017-01-31,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-4008,17
+2017-02-01,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-4008,16
+2017-02-02,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1201,16
+2017-02-03,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,17
+2017-02-04,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,16
+2017-02-05,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1201,16
+2017-02-06,California,Los Angeles,6,37,45,Good,PM2.5,06-037-1201,17
+2017-02-07,California,Los Angeles,6,37,41,Good,PM2.5,06-037-1201,16
+2017-02-08,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1201,16
+2017-02-09,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1103,17
+2017-02-10,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1103,16
+2017-02-11,California,Los Angeles,6,37,49,Good,PM2.5,06-037-4008,16
+2017-02-12,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,16
+2017-02-13,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4008,16
+2017-02-14,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2017-02-15,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-4008,16
+2017-02-16,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1103,16
+2017-02-17,California,Los Angeles,6,37,49,Good,Ozone,06-037-0002,16
+2017-02-18,California,Los Angeles,6,37,46,Good,Ozone,06-037-1201,16
+2017-02-19,California,Los Angeles,6,37,46,Good,PM2.5,06-037-1201,16
+2017-02-20,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1201,16
+2017-02-21,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4004,16
+2017-02-22,California,Los Angeles,6,37,48,Good,NO2,06-037-4008,15
+2017-02-23,California,Los Angeles,6,37,50,Good,NO2,06-037-4008,16
+2017-02-24,California,Los Angeles,6,37,63,Moderate,NO2,06-037-4008,16
+2017-02-25,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,16
+2017-02-26,California,Los Angeles,6,37,44,Good,PM2.5,06-037-1201,16
+2017-02-27,California,Los Angeles,6,37,48,Good,NO2,06-037-4008,16
+2017-02-28,California,Los Angeles,6,37,57,Moderate,NO2,06-037-4008,15
+2017-03-01,California,Los Angeles,6,37,60,Moderate,NO2,06-037-4008,16
+2017-03-02,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,16
+2017-03-03,California,Los Angeles,6,37,56,Moderate,NO2,06-037-4008,16
+2017-03-04,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,16
+2017-03-05,California,Los Angeles,6,37,45,Good,Ozone,06-037-1201,16
+2017-03-06,California,Los Angeles,6,37,48,Good,NO2,06-037-4008,16
+2017-03-07,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4004,16
+2017-03-08,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,15
+2017-03-09,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-1201,16
+2017-03-10,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2017-03-11,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2017-03-12,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0002,15
+2017-03-13,California,Los Angeles,6,37,125,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,15
+2017-03-14,California,Los Angeles,6,37,102,Unhealthy for Sensitive Groups,PM2.5,06-037-4004,16
+2017-03-15,California,Los Angeles,6,37,82,Moderate,PM2.5,06-037-4004,16
+2017-03-16,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1103,16
+2017-03-17,California,Los Angeles,6,37,89,Moderate,PM2.5,06-037-1103,16
+2017-03-18,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2017-03-19,California,Los Angeles,6,37,79,Moderate,PM2.5,06-037-1103,16
+2017-03-20,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,16
+2017-03-21,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,15
+2017-03-22,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2017-03-23,California,Los Angeles,6,37,47,Good,Ozone,06-037-1201,16
+2017-03-24,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2017-03-25,California,Los Angeles,6,37,45,Good,PM2.5,06-037-1201,16
+2017-03-26,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2017-03-27,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,16
+2017-03-28,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4008,16
+2017-03-29,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-0016,16
+2017-03-30,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4004,16
+2017-03-31,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-0016,13
+2017-04-01,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,16
+2017-04-02,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-0016,16
+2017-04-03,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1201,16
+2017-04-04,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-1201,16
+2017-04-05,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,16
+2017-04-06,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1103,15
+2017-04-07,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-0016,16
+2017-04-08,California,Los Angeles,6,37,50,Good,Ozone,06-037-1201,16
+2017-04-09,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-1201,16
+2017-04-10,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-1201,16
+2017-04-11,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,16
+2017-04-12,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1201,16
+2017-04-13,California,Los Angeles,6,37,44,Good,Ozone,06-037-5005,16
+2017-04-14,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-1201,16
+2017-04-15,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2017-04-16,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2017-04-17,California,Los Angeles,6,37,41,Good,NO2,06-037-4008,16
+2017-04-18,California,Los Angeles,6,37,34,Good,NO2,06-037-4008,16
+2017-04-19,California,Los Angeles,6,37,49,Good,Ozone,06-037-9033,16
+2017-04-20,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-1201,15
+2017-04-21,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2017-04-22,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-0002,16
+2017-04-23,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-0002,16
+2017-04-24,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-0016,16
+2017-04-25,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1201,16
+2017-04-26,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-0016,16
+2017-04-27,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-1201,16
+2017-04-28,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-0002,16
+2017-04-29,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-0002,16
+2017-04-30,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2017-05-01,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2017-05-02,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2017-05-03,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,16
+2017-05-04,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2017-05-05,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-1201,16
+2017-05-06,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2017-05-07,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-0002,16
+2017-05-08,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1103,16
+2017-05-09,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2017-05-10,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2017-05-11,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-6012,16
+2017-05-12,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-1103,16
+2017-05-13,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-0016,16
+2017-05-14,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-1201,16
+2017-05-15,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2017-05-16,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2017-05-17,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2017-05-18,California,Los Angeles,6,37,61,Moderate,NO2,06-037-1602,16
+2017-05-19,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-0002,15
+2017-05-20,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-0113,16
+2017-05-21,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2017-05-22,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,16
+2017-05-23,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2017-05-24,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2017-05-25,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2017-05-26,California,Los Angeles,6,37,45,Good,Ozone,06-037-9033,15
+2017-05-27,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,16
+2017-05-28,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2017-05-29,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,16
+2017-05-30,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2017-05-31,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-1201,17
+2017-06-01,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-6012,16
+2017-06-02,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2017-06-03,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-6012,17
+2017-06-04,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2017-06-05,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2017-06-06,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-1103,17
+2017-06-07,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2017-06-08,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2017-06-09,California,Los Angeles,6,37,50,Good,Ozone,06-037-0016,17
+2017-06-10,California,Los Angeles,6,37,47,Good,PM2.5,06-037-1201,16
+2017-06-11,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,16
+2017-06-12,California,Los Angeles,6,37,44,Good,Ozone,06-037-1201,17
+2017-06-13,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-6012,16
+2017-06-14,California,Los Angeles,6,37,159,Unhealthy,Ozone,06-037-6012,16
+2017-06-15,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2017-06-16,California,Los Angeles,6,37,195,Unhealthy,Ozone,06-037-6012,16
+2017-06-17,California,Los Angeles,6,37,190,Unhealthy,Ozone,06-037-6012,16
+2017-06-18,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,17
+2017-06-19,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-6012,16
+2017-06-20,California,Los Angeles,6,37,197,Unhealthy,Ozone,06-037-6012,16
+2017-06-21,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,17
+2017-06-22,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2017-06-23,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,16
+2017-06-24,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-6012,17
+2017-06-25,California,Los Angeles,6,37,195,Unhealthy,Ozone,06-037-0016,16
+2017-06-26,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2017-06-27,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2017-06-28,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2017-06-29,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2017-06-30,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-6012,17
+2017-07-01,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2017-07-02,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2017-07-03,California,Los Angeles,6,37,159,Unhealthy,Ozone,06-037-0016,17
+2017-07-04,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-0016,16
+2017-07-05,California,Los Angeles,6,37,182,Unhealthy,Ozone,06-037-6012,16
+2017-07-06,California,Los Angeles,6,37,204,Very Unhealthy,Ozone,06-037-6012,17
+2017-07-07,California,Los Angeles,6,37,224,Very Unhealthy,Ozone,06-037-6012,16
+2017-07-08,California,Los Angeles,6,37,209,Very Unhealthy,Ozone,06-037-1201,16
+2017-07-09,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-2005,17
+2017-07-10,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2017-07-11,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,15
+2017-07-12,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,17
+2017-07-13,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,16
+2017-07-14,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,16
+2017-07-15,California,Los Angeles,6,37,203,Very Unhealthy,Ozone,06-037-6012,17
+2017-07-16,California,Los Angeles,6,37,159,Unhealthy,Ozone,06-037-6012,16
+2017-07-17,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2017-07-18,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,17
+2017-07-19,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,16
+2017-07-20,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2017-07-21,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-9033,17
+2017-07-22,California,Los Angeles,6,37,177,Unhealthy,Ozone,06-037-6012,16
+2017-07-23,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,16
+2017-07-24,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1201,17
+2017-07-25,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-6012,16
+2017-07-26,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,16
+2017-07-27,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2017-07-28,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2017-07-29,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2017-07-30,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2017-07-31,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,16
+2017-08-01,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2017-08-02,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2017-08-03,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-1701,16
+2017-08-04,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2017-08-05,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2017-08-06,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2017-08-07,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2017-08-08,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2017-08-09,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2017-08-10,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2017-08-11,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2017-08-12,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,16
+2017-08-13,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2017-08-14,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0016,17
+2017-08-15,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,15
+2017-08-16,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,16
+2017-08-17,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,17
+2017-08-18,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2017-08-19,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-1701,15
+2017-08-20,California,Los Angeles,6,37,84,Moderate,PM2.5,06-037-4008,16
+2017-08-21,California,Los Angeles,6,37,85,Moderate,PM2.5,06-037-4008,15
+2017-08-22,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-1201,14
+2017-08-23,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2017-08-24,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2017-08-25,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,15
+2017-08-26,California,Los Angeles,6,37,190,Unhealthy,Ozone,06-037-0016,16
+2017-08-27,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-0016,15
+2017-08-28,California,Los Angeles,6,37,201,Very Unhealthy,Ozone,06-037-1701,15
+2017-08-29,California,Los Angeles,6,37,208,Very Unhealthy,Ozone,06-037-0016,16
+2017-08-30,California,Los Angeles,6,37,209,Very Unhealthy,Ozone,06-037-1701,15
+2017-08-31,California,Los Angeles,6,37,174,Unhealthy,Ozone,06-037-2005,15
+2017-09-01,California,Los Angeles,6,37,206,Very Unhealthy,Ozone,06-037-0016,16
+2017-09-02,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-1701,15
+2017-09-03,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,15
+2017-09-04,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2017-09-05,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1201,15
+2017-09-06,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-1201,15
+2017-09-07,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2017-09-08,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-9033,15
+2017-09-09,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-1701,15
+2017-09-10,California,Los Angeles,6,37,177,Unhealthy,Ozone,06-037-1701,16
+2017-09-11,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-1701,15
+2017-09-12,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-1701,14
+2017-09-13,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,16
+2017-09-14,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,15
+2017-09-15,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,15
+2017-09-16,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-6012,16
+2017-09-17,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,15
+2017-09-18,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2017-09-19,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1201,16
+2017-09-20,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-9033,14
+2017-09-21,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,15
+2017-09-22,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,16
+2017-09-23,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-1701,15
+2017-09-24,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-1103,14
+2017-09-25,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,16
+2017-09-26,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-1701,14
+2017-09-27,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-1701,15
+2017-09-28,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-1701,16
+2017-09-29,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0002,15
+2017-09-30,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-9033,13
+2017-10-01,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-6012,16
+2017-10-02,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1201,15
+2017-10-03,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1201,14
+2017-10-04,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-0002,16
+2017-10-05,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-1201,14
+2017-10-06,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-2005,14
+2017-10-07,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-1701,15
+2017-10-08,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-6012,14
+2017-10-09,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4004,15
+2017-10-10,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,16
+2017-10-11,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,15
+2017-10-12,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,15
+2017-10-13,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,16
+2017-10-14,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-0002,15
+2017-10-15,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-1103,15
+2017-10-16,California,Los Angeles,6,37,87,Moderate,NO2,06-037-4008,16
+2017-10-17,California,Los Angeles,6,37,88,Moderate,NO2,06-037-4008,15
+2017-10-18,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-0002,15
+2017-10-19,California,Los Angeles,6,37,94,Moderate,PM2.5,06-037-1201,16
+2017-10-20,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,15
+2017-10-21,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1103,14
+2017-10-22,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-2005,15
+2017-10-23,California,Los Angeles,6,37,73,Moderate,NO2,06-037-4008,14
+2017-10-24,California,Los Angeles,6,37,104,Unhealthy for Sensitive Groups,NO2,06-037-4008,14
+2017-10-25,California,Los Angeles,6,37,71,Moderate,NO2,06-037-4008,15
+2017-10-26,California,Los Angeles,6,37,76,Moderate,NO2,06-037-4008,13
+2017-10-27,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-1201,14
+2017-10-28,California,Los Angeles,6,37,94,Moderate,PM2.5,06-037-1103,15
+2017-10-29,California,Los Angeles,6,37,118,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,14
+2017-10-30,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,14
+2017-10-31,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,15
+2017-11-01,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,15
+2017-11-02,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,15
+2017-11-03,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2017-11-04,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1201,15
+2017-11-05,California,Los Angeles,6,37,43,Good,PM2.5,06-037-1201,15
+2017-11-06,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,16
+2017-11-07,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,15
+2017-11-08,California,Los Angeles,6,37,48,Good,NO2,06-037-4008,15
+2017-11-09,California,Los Angeles,6,37,45,Good,PM2.5,06-037-1201,16
+2017-11-10,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,15
+2017-11-11,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1103,15
+2017-11-12,California,Los Angeles,6,37,92,Moderate,PM2.5,06-037-1103,16
+2017-11-13,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-4008,15
+2017-11-14,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-4008,15
+2017-11-15,California,Los Angeles,6,37,87,Moderate,PM2.5,06-037-1103,16
+2017-11-16,California,Los Angeles,6,37,88,Moderate,NO2,06-037-4006,15
+2017-11-17,California,Los Angeles,6,37,47,Good,PM2.5,06-037-1201,15
+2017-11-18,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2017-11-19,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,15
+2017-11-20,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-4008,15
+2017-11-21,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-4004,16
+2017-11-22,California,Los Angeles,6,37,71,Moderate,NO2,06-037-4008,15
+2017-11-23,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,15
+2017-11-24,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1302,16
+2017-11-25,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1103,15
+2017-11-26,California,Los Angeles,6,37,121,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,15
+2017-11-27,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-1103,16
+2017-11-28,California,Los Angeles,6,37,57,Moderate,NO2,06-037-4008,14
+2017-11-29,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-4008,15
+2017-11-30,California,Los Angeles,6,37,79,Moderate,PM2.5,06-037-4004,16
+2017-12-01,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-4008,15
+2017-12-02,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-4008,15
+2017-12-03,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-1302,16
+2017-12-04,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1103,15
+2017-12-05,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-1201,15
+2017-12-06,California,Los Angeles,6,37,107,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2017-12-07,California,Los Angeles,6,37,91,Moderate,NO2,06-037-4008,14
+2017-12-08,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,15
+2017-12-09,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-4008,16
+2017-12-10,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,15
+2017-12-11,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,15
+2017-12-12,California,Los Angeles,6,37,89,Moderate,PM2.5,06-037-4008,16
+2017-12-13,California,Los Angeles,6,37,88,Moderate,PM2.5,06-037-4008,15
+2017-12-14,California,Los Angeles,6,37,107,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,15
+2017-12-15,California,Los Angeles,6,37,100,Moderate,PM2.5,06-037-1201,16
+2017-12-16,California,Los Angeles,6,37,90,Moderate,PM2.5,06-037-1201,15
+2017-12-17,California,Los Angeles,6,37,89,Moderate,PM2.5,06-037-4008,15
+2017-12-18,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2017-12-19,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-4008,15
+2017-12-20,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-4008,15
+2017-12-21,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,16
+2017-12-22,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-4008,14
+2017-12-23,California,Los Angeles,6,37,84,Moderate,PM2.5,06-037-4008,15
+2017-12-24,California,Los Angeles,6,37,157,Unhealthy,PM2.5,06-037-1302,16
+2017-12-25,California,Los Angeles,6,37,169,Unhealthy,PM2.5,06-037-4008,15
+2017-12-26,California,Los Angeles,6,37,155,Unhealthy,PM2.5,06-037-4008,15
+2017-12-27,California,Los Angeles,6,37,154,Unhealthy,PM2.5,06-037-4008,16
+2017-12-28,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,15
+2017-12-29,California,Los Angeles,6,37,90,Moderate,PM2.5,06-037-4008,15
+2017-12-30,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,PM2.5,06-037-1302,16
+2017-12-31,California,Los Angeles,6,37,141,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,14
+2018-01-01,California,Los Angeles,6,37,180,Unhealthy,PM2.5,06-037-4008,16
+2018-01-02,California,Los Angeles,6,37,151,Unhealthy,PM2.5,06-037-1602,17
+2018-01-03,California,Los Angeles,6,37,110,Unhealthy for Sensitive Groups,PM2.5,06-037-4004,16
+2018-01-04,California,Los Angeles,6,37,85,Moderate,PM2.5,06-037-4008,16
+2018-01-05,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1302,17
+2018-01-06,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-4008,16
+2018-01-07,California,Los Angeles,6,37,92,Moderate,PM2.5,06-037-1103,16
+2018-01-08,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1602,17
+2018-01-09,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,16
+2018-01-10,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2018-01-11,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-1602,17
+2018-01-12,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,PM2.5,06-037-4004,16
+2018-01-13,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,16
+2018-01-14,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1302,17
+2018-01-15,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-4008,16
+2018-01-16,California,Los Angeles,6,37,92,Moderate,PM2.5,06-037-1103,16
+2018-01-17,California,Los Angeles,6,37,92,Moderate,PM2.5,06-037-4008,16
+2018-01-18,California,Los Angeles,6,37,82,Moderate,PM2.5,06-037-4008,16
+2018-01-19,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1201,16
+2018-01-20,California,Los Angeles,6,37,40,Good,Ozone,06-037-0002,16
+2018-01-21,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4004,16
+2018-01-22,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4004,16
+2018-01-23,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2018-01-24,California,Los Angeles,6,37,48,Good,NO2,06-037-1701,15
+2018-01-25,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1103,15
+2018-01-26,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2018-01-27,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4004,15
+2018-01-28,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-4008,15
+2018-01-29,California,Los Angeles,6,37,68,Moderate,NO2,06-037-4008,16
+2018-01-30,California,Los Angeles,6,37,56,Moderate,NO2,06-037-4006,15
+2018-01-31,California,Los Angeles,6,37,78,Moderate,NO2,06-037-4008,15
+2018-02-01,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2018-02-02,California,Los Angeles,6,37,94,Moderate,PM2.5,06-037-4008,15
+2018-02-03,California,Los Angeles,6,37,109,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2018-02-04,California,Los Angeles,6,37,97,Moderate,PM2.5,06-037-1302,17
+2018-02-05,California,Los Angeles,6,37,88,Moderate,PM2.5,06-037-1103,16
+2018-02-06,California,Los Angeles,6,37,109,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,15
+2018-02-07,California,Los Angeles,6,37,79,Moderate,PM2.5,06-037-4008,17
+2018-02-08,California,Los Angeles,6,37,81,Moderate,NO2,06-037-4006,16
+2018-02-09,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1103,16
+2018-02-10,California,Los Angeles,6,37,88,Moderate,PM2.5,06-037-1201,17
+2018-02-11,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-4008,16
+2018-02-12,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1201,16
+2018-02-13,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,17
+2018-02-14,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,16
+2018-02-15,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,16
+2018-02-16,California,Los Angeles,6,37,58,Moderate,NO2,06-037-4008,17
+2018-02-17,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4004,16
+2018-02-18,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2018-02-19,California,Los Angeles,6,37,65,Moderate,PM10,06-037-4006,17
+2018-02-20,California,Los Angeles,6,37,51,Moderate,NO2,06-037-4008,16
+2018-02-21,California,Los Angeles,6,37,50,Good,NO2,06-037-4008,16
+2018-02-22,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,17
+2018-02-23,California,Los Angeles,6,37,45,Good,Ozone,06-037-0002,16
+2018-02-24,California,Los Angeles,6,37,49,Good,PM2.5,06-037-4004,16
+2018-02-25,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1302,17
+2018-02-26,California,Los Angeles,6,37,56,Moderate,NO2,06-037-4006,16
+2018-02-27,California,Los Angeles,6,37,47,Good,NO2,06-037-4008,16
+2018-02-28,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2018-03-01,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2018-03-02,California,Los Angeles,6,37,50,Good,PM2.5,06-037-1201,16
+2018-03-03,California,Los Angeles,6,37,48,Good,PM2.5,06-037-1201,17
+2018-03-04,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,16
+2018-03-05,California,Los Angeles,6,37,51,Moderate,NO2,06-037-4008,16
+2018-03-06,California,Los Angeles,6,37,60,Moderate,NO2,06-037-4008,17
+2018-03-07,California,Los Angeles,6,37,61,Moderate,NO2,06-037-4008,16
+2018-03-08,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1103,16
+2018-03-09,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,17
+2018-03-10,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-1201,16
+2018-03-11,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,16
+2018-03-12,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1103,17
+2018-03-13,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1103,16
+2018-03-14,California,Los Angeles,6,37,41,Good,Ozone,06-037-9033,15
+2018-03-15,California,Los Angeles,6,37,45,Good,Ozone,06-037-1201,17
+2018-03-16,California,Los Angeles,6,37,42,Good,PM2.5,06-037-1201,16
+2018-03-17,California,Los Angeles,6,37,43,Good,Ozone,06-037-9033,16
+2018-03-18,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,17
+2018-03-19,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2018-03-20,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1103,16
+2018-03-21,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,17
+2018-03-22,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,16
+2018-03-23,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1201,16
+2018-03-24,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,17
+2018-03-25,California,Los Angeles,6,37,49,Good,Ozone,06-037-0002,16
+2018-03-26,California,Los Angeles,6,37,46,Good,Ozone,06-037-2005,16
+2018-03-27,California,Los Angeles,6,37,47,Good,Ozone,06-037-1201,16
+2018-03-28,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,16
+2018-03-29,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-1201,16
+2018-03-30,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2018-03-31,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-1201,15
+2018-04-01,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-1201,16
+2018-04-02,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-6012,17
+2018-04-03,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1201,16
+2018-04-04,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1103,16
+2018-04-05,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,17
+2018-04-06,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-1201,16
+2018-04-07,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2018-04-08,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1103,17
+2018-04-09,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-1201,16
+2018-04-10,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0113,16
+2018-04-11,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,17
+2018-04-12,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-1201,16
+2018-04-13,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-1201,16
+2018-04-14,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-0002,17
+2018-04-15,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-1201,16
+2018-04-16,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2018-04-17,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-1201,17
+2018-04-18,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-1201,15
+2018-04-19,California,Los Angeles,6,37,47,Good,Ozone,06-037-9033,15
+2018-04-20,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,16
+2018-04-21,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-1201,15
+2018-04-22,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2018-04-23,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-04-24,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2018-04-25,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2018-04-26,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-1103,16
+2018-04-27,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1201,16
+2018-04-28,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,16
+2018-04-29,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-1201,17
+2018-04-30,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2018-05-01,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,16
+2018-05-02,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1201,17
+2018-05-03,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-1201,16
+2018-05-04,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2018-05-05,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0002,17
+2018-05-06,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-05-07,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-05-08,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,17
+2018-05-09,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-05-10,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-1201,16
+2018-05-11,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-1201,17
+2018-05-12,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2018-05-13,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2018-05-14,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,17
+2018-05-15,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,16
+2018-05-16,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2018-05-17,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,17
+2018-05-18,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,16
+2018-05-19,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1201,16
+2018-05-20,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1201,17
+2018-05-21,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,16
+2018-05-22,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,16
+2018-05-23,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-9033,16
+2018-05-24,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,16
+2018-05-25,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1201,16
+2018-05-26,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1201,17
+2018-05-27,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1201,16
+2018-05-28,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-0016,16
+2018-05-29,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,17
+2018-05-30,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-1201,16
+2018-05-31,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,16
+2018-06-01,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,17
+2018-06-02,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-06-03,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2018-06-04,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-06-05,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1201,16
+2018-06-06,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,16
+2018-06-07,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2018-06-08,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-06-09,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2018-06-10,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2018-06-11,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2018-06-12,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-06-13,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2018-06-14,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2018-06-15,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-1201,16
+2018-06-16,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1201,17
+2018-06-17,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2018-06-18,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,16
+2018-06-19,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-06-20,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-6012,16
+2018-06-21,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-6012,16
+2018-06-22,California,Los Angeles,6,37,185,Unhealthy,Ozone,06-037-0016,17
+2018-06-23,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-06-24,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-06-25,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-06-26,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2018-06-27,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-06-28,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-06-29,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2018-06-30,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-07-01,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,16
+2018-07-02,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2018-07-03,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,16
+2018-07-04,California,Los Angeles,6,37,118,Unhealthy for Sensitive Groups,PM2.5,06-037-1602,16
+2018-07-05,California,Los Angeles,6,37,166,Unhealthy,PM2.5,06-037-0016,16
+2018-07-06,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2018-07-07,California,Los Angeles,6,37,185,Unhealthy,Ozone,06-037-0002,17
+2018-07-08,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-07-09,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-07-10,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-07-11,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,16
+2018-07-12,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-0016,16
+2018-07-13,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-6012,16
+2018-07-14,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,16
+2018-07-15,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2018-07-16,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,17
+2018-07-17,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-07-18,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-07-19,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2018-07-20,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,16
+2018-07-21,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-0016,16
+2018-07-22,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-0002,17
+2018-07-23,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2018-07-24,California,Los Angeles,6,37,195,Unhealthy,Ozone,06-037-0016,16
+2018-07-25,California,Los Angeles,6,37,185,Unhealthy,Ozone,06-037-6012,17
+2018-07-26,California,Los Angeles,6,37,190,Unhealthy,Ozone,06-037-6012,16
+2018-07-27,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-6012,16
+2018-07-28,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-07-29,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2018-07-30,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-07-31,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,16
+2018-08-01,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-9033,15
+2018-08-02,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2018-08-03,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-08-04,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-9033,16
+2018-08-05,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-0016,16
+2018-08-06,California,Los Angeles,6,37,197,Unhealthy,Ozone,06-037-0016,17
+2018-08-07,California,Los Angeles,6,37,201,Very Unhealthy,Ozone,06-037-6012,16
+2018-08-08,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-08-09,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-9033,17
+2018-08-10,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2018-08-11,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,16
+2018-08-12,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,17
+2018-08-13,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,15
+2018-08-14,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-9033,16
+2018-08-15,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,17
+2018-08-16,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-9033,16
+2018-08-17,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-08-18,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2018-08-19,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-08-20,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2018-08-21,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-0002,17
+2018-08-22,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-0016,16
+2018-08-23,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-0016,16
+2018-08-24,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2018-08-25,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2018-08-26,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2018-08-27,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2018-08-28,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0002,16
+2018-08-29,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-6012,16
+2018-08-30,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,17
+2018-08-31,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-6012,16
+2018-09-01,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-09-02,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-09-03,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-0002,16
+2018-09-04,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,16
+2018-09-05,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-6012,17
+2018-09-06,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,16
+2018-09-07,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-09-08,California,Los Angeles,6,37,192,Unhealthy,Ozone,06-037-0016,17
+2018-09-09,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2018-09-10,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-09-11,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-09-12,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-09-13,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-1201,16
+2018-09-14,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-1701,17
+2018-09-15,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-0002,16
+2018-09-16,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-0002,16
+2018-09-17,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,17
+2018-09-18,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,16
+2018-09-19,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-09-20,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2018-09-21,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2018-09-22,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2018-09-23,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0016,17
+2018-09-24,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1103,16
+2018-09-25,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-0016,16
+2018-09-26,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2018-09-27,California,Los Angeles,6,37,150,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2018-09-28,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-0002,16
+2018-09-29,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-0002,17
+2018-09-30,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1103,16
+2018-10-01,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-4008,16
+2018-10-02,California,Los Angeles,6,37,45,Good,PM2.5,06-037-4008,17
+2018-10-03,California,Los Angeles,6,37,41,Good,PM2.5,06-037-0016,16
+2018-10-04,California,Los Angeles,6,37,34,Good,Ozone,06-037-9033,16
+2018-10-05,California,Los Angeles,6,37,44,Good,Ozone,06-037-9033,17
+2018-10-06,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-1201,16
+2018-10-07,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1103,16
+2018-10-08,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1103,17
+2018-10-09,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,16
+2018-10-10,California,Los Angeles,6,37,49,Good,Ozone,06-037-9033,16
+2018-10-11,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4008,17
+2018-10-12,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4008,16
+2018-10-13,California,Los Angeles,6,37,45,Good,Ozone,06-037-9033,16
+2018-10-14,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-0016,17
+2018-10-15,California,Los Angeles,6,37,57,Moderate,NO2,06-037-4006,16
+2018-10-16,California,Los Angeles,6,37,58,Moderate,NO2,06-037-4008,16
+2018-10-17,California,Los Angeles,6,37,60,Moderate,NO2,06-037-4008,16
+2018-10-18,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,16
+2018-10-19,California,Los Angeles,6,37,69,Moderate,NO2,06-037-4008,16
+2018-10-20,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-1201,17
+2018-10-21,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-0002,16
+2018-10-22,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-1201,16
+2018-10-23,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1103,17
+2018-10-24,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1103,16
+2018-10-25,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-1201,16
+2018-10-26,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2018-10-27,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2018-10-28,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2018-10-29,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2018-10-30,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-0016,16
+2018-10-31,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4004,16
+2018-11-01,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4008,17
+2018-11-02,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-4004,16
+2018-11-03,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-4004,16
+2018-11-04,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-1201,17
+2018-11-05,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-1103,16
+2018-11-06,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2018-11-07,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,17
+2018-11-08,California,Los Angeles,6,37,71,Moderate,PM2.5,06-037-4004,16
+2018-11-09,California,Los Angeles,6,37,73,Moderate,NO2,06-037-4008,16
+2018-11-10,California,Los Angeles,6,37,117,Unhealthy for Sensitive Groups,PM2.5,06-037-1201,17
+2018-11-11,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2018-11-12,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,16
+2018-11-13,California,Los Angeles,6,37,73,Moderate,NO2,06-037-4008,17
+2018-11-14,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,16
+2018-11-15,California,Los Angeles,6,37,68,Moderate,NO2,06-037-4008,16
+2018-11-16,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-1302,17
+2018-11-17,California,Los Angeles,6,37,78,Moderate,PM2.5,06-037-1103,16
+2018-11-18,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,PM2.5,06-037-4004,16
+2018-11-19,California,Los Angeles,6,37,130,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,17
+2018-11-20,California,Los Angeles,6,37,102,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2018-11-21,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-4008,16
+2018-11-22,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1302,16
+2018-11-23,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1201,16
+2018-11-24,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-0016,16
+2018-11-25,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1302,17
+2018-11-26,California,Los Angeles,6,37,57,Moderate,NO2,06-037-4008,16
+2018-11-27,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,16
+2018-11-28,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1201,17
+2018-11-29,California,Los Angeles,6,37,39,Good,Ozone,06-037-5005,16
+2018-11-30,California,Los Angeles,6,37,41,Good,NO2,06-037-4008,16
+2018-12-01,California,Los Angeles,6,37,47,Good,PM2.5,06-037-4004,17
+2018-12-02,California,Los Angeles,6,37,39,Good,Ozone,06-037-5005,16
+2018-12-03,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4004,16
+2018-12-04,California,Los Angeles,6,37,54,Moderate,NO2,06-037-4008,17
+2018-12-05,California,Los Angeles,6,37,58,Moderate,NO2,06-037-4008,16
+2018-12-06,California,Los Angeles,6,37,46,Good,NO2,06-037-4008,16
+2018-12-07,California,Los Angeles,6,37,42,Good,NO2,06-037-4008,17
+2018-12-08,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-4004,16
+2018-12-09,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-1201,16
+2018-12-10,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-4008,17
+2018-12-11,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-4002,16
+2018-12-12,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-4008,16
+2018-12-13,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-4008,17
+2018-12-14,California,Los Angeles,6,37,78,Moderate,NO2,06-037-4008,16
+2018-12-15,California,Los Angeles,6,37,134,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2018-12-16,California,Los Angeles,6,37,90,Moderate,PM2.5,06-037-1302,17
+2018-12-17,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,16
+2018-12-18,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2018-12-19,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-4008,17
+2018-12-20,California,Los Angeles,6,37,85,Moderate,PM2.5,06-037-4008,16
+2018-12-21,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-4008,16
+2018-12-22,California,Los Angeles,6,37,102,Unhealthy for Sensitive Groups,PM2.5,06-037-1602,17
+2018-12-23,California,Los Angeles,6,37,121,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2018-12-24,California,Los Angeles,6,37,130,Unhealthy for Sensitive Groups,PM2.5,06-037-4004,16
+2018-12-25,California,Los Angeles,6,37,39,Good,Ozone,06-037-1201,17
+2018-12-26,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-4008,16
+2018-12-27,California,Los Angeles,6,37,47,Good,PM2.5,06-037-4008,16
+2018-12-28,California,Los Angeles,6,37,57,Moderate,NO2,06-037-4008,17
+2018-12-29,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-4008,16
+2018-12-30,California,Los Angeles,6,37,96,Moderate,PM2.5,06-037-4008,16
+2018-12-31,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1302,17
+2019-01-01,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1103,16
+2019-01-02,California,Los Angeles,6,37,93,Moderate,PM2.5,06-037-4008,16
+2019-01-03,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,16
+2019-01-04,California,Los Angeles,6,37,85,Moderate,PM2.5,06-037-4008,16
+2019-01-05,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-4008,16
+2019-01-06,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4008,15
+2019-01-07,California,Los Angeles,6,37,53,Moderate,NO2,06-037-4008,16
+2019-01-08,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,16
+2019-01-09,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1302,16
+2019-01-10,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,15
+2019-01-11,California,Los Angeles,6,37,91,Moderate,PM2.5,06-037-4008,15
+2019-01-12,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4002,17
+2019-01-13,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,16
+2019-01-14,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-1201,16
+2019-01-15,California,Los Angeles,6,37,46,Good,PM2.5,06-037-1201,17
+2019-01-16,California,Los Angeles,6,37,38,Good,NO2,06-037-5005,16
+2019-01-17,California,Los Angeles,6,37,44,Good,NO2,06-037-4008,16
+2019-01-18,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-4008,17
+2019-01-19,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-4004,15
+2019-01-20,California,Los Angeles,6,37,45,Good,PM2.5,06-037-4008,15
+2019-01-21,California,Los Angeles,6,37,40,Good,Ozone,06-037-5005,16
+2019-01-22,California,Los Angeles,6,37,71,Moderate,NO2,06-037-4008,15
+2019-01-23,California,Los Angeles,6,37,63,Moderate,NO2,06-037-4008,15
+2019-01-24,California,Los Angeles,6,37,76,Moderate,NO2,06-037-4008,16
+2019-01-25,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,15
+2019-01-26,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,16
+2019-01-27,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-4008,17
+2019-01-28,California,Los Angeles,6,37,106,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2019-01-29,California,Los Angeles,6,37,95,Moderate,PM2.5,06-037-1103,16
+2019-01-30,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1103,17
+2019-01-31,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-0016,16
+2019-02-01,California,Los Angeles,6,37,40,Good,PM2.5,06-037-4008,16
+2019-02-02,California,Los Angeles,6,37,41,Good,Ozone,06-037-9033,16
+2019-02-03,California,Los Angeles,6,37,41,Good,Ozone,06-037-5005,16
+2019-02-04,California,Los Angeles,6,37,42,Good,Ozone,06-037-9033,16
+2019-02-05,California,Los Angeles,6,37,46,Good,NO2,06-037-4008,16
+2019-02-06,California,Los Angeles,6,37,52,Moderate,NO2,06-037-4008,16
+2019-02-07,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,16
+2019-02-08,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,16
+2019-02-09,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-4008,16
+2019-02-10,California,Los Angeles,6,37,42,Good,Ozone,06-037-5005,16
+2019-02-11,California,Los Angeles,6,37,57,Moderate,NO2,06-037-4008,16
+2019-02-12,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4008,16
+2019-02-13,California,Los Angeles,6,37,43,Good,PM2.5,06-037-4008,15
+2019-02-14,California,Los Angeles,6,37,44,Good,NO2,06-037-4008,16
+2019-02-15,California,Los Angeles,6,37,42,Good,Ozone,06-037-5005,15
+2019-02-16,California,Los Angeles,6,37,41,Good,Ozone,06-037-5005,16
+2019-02-17,California,Los Angeles,6,37,44,Good,Ozone,06-037-5005,17
+2019-02-18,California,Los Angeles,6,37,44,Good,NO2,06-037-4008,16
+2019-02-19,California,Los Angeles,6,37,54,Moderate,NO2,06-037-4008,16
+2019-02-20,California,Los Angeles,6,37,50,Good,PM2.5,06-037-4008,17
+2019-02-21,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-4008,16
+2019-02-22,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-4008,15
+2019-02-23,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,17
+2019-02-24,California,Los Angeles,6,37,63,Moderate,PM2.5,06-037-4008,16
+2019-02-25,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-4008,16
+2019-02-26,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1103,17
+2019-02-27,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-0016,15
+2019-02-28,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-0016,15
+2019-03-01,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-0016,17
+2019-03-02,California,Los Angeles,6,37,40,Good,PM2.5,06-037-0016,16
+2019-03-03,California,Los Angeles,6,37,37,Good,Ozone,06-037-0002,16
+2019-03-04,California,Los Angeles,6,37,42,Good,NO2,06-037-4008,17
+2019-03-05,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,15
+2019-03-06,California,Los Angeles,6,37,44,Good,PM2.5,06-037-4008,15
+2019-03-07,California,Los Angeles,6,37,43,Good,NO2,06-037-4008,16
+2019-03-08,California,Los Angeles,6,37,44,Good,Ozone,06-037-5005,15
+2019-03-09,California,Los Angeles,6,37,44,Good,Ozone,06-037-1201,16
+2019-03-10,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-1201,17
+2019-03-11,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4008,16
+2019-03-12,California,Los Angeles,6,37,49,Good,PM2.5,06-037-4008,16
+2019-03-13,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4008,17
+2019-03-14,California,Los Angeles,6,37,48,Good,NO2,06-037-5005,16
+2019-03-15,California,Los Angeles,6,37,52,Moderate,NO2,06-037-4008,16
+2019-03-16,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-1602,17
+2019-03-17,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1201,16
+2019-03-18,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-1201,16
+2019-03-19,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1103,17
+2019-03-20,California,Los Angeles,6,37,49,Good,Ozone,06-037-5005,16
+2019-03-21,California,Los Angeles,6,37,45,Good,NO2,06-037-5005,16
+2019-03-22,California,Los Angeles,6,37,48,Good,Ozone,06-037-9033,17
+2019-03-23,California,Los Angeles,6,37,45,Good,Ozone,06-037-0002,16
+2019-03-24,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-0002,16
+2019-03-25,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,17
+2019-03-26,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-9033,16
+2019-03-27,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-0016,16
+2019-03-28,California,Los Angeles,6,37,45,Good,Ozone,06-037-1201,17
+2019-03-29,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4008,16
+2019-03-30,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-0002,16
+2019-03-31,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-0002,17
+2019-04-01,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-1201,16
+2019-04-02,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-1201,15
+2019-04-03,California,Los Angeles,6,37,40,Good,Ozone,06-037-1201,16
+2019-04-04,California,Los Angeles,6,37,40,Good,Ozone,06-037-9033,15
+2019-04-05,California,Los Angeles,6,37,38,Good,Ozone,06-037-1201,15
+2019-04-06,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-9033,17
+2019-04-07,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0002,15
+2019-04-08,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-0016,15
+2019-04-09,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,PM10,06-037-4006,17
+2019-04-10,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-1201,15
+2019-04-11,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4008,15
+2019-04-12,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4008,17
+2019-04-13,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1201,15
+2019-04-14,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-0002,15
+2019-04-15,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,17
+2019-04-16,California,Los Angeles,6,37,44,Good,Ozone,06-037-5005,15
+2019-04-17,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-9033,15
+2019-04-18,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0002,17
+2019-04-19,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-9033,15
+2019-04-20,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-9033,15
+2019-04-21,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-0002,17
+2019-04-22,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1103,15
+2019-04-23,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1103,15
+2019-04-24,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-9033,16
+2019-04-25,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,15
+2019-04-26,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,15
+2019-04-27,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-2005,16
+2019-04-28,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-0016,15
+2019-04-29,California,Los Angeles,6,37,49,Good,PM2.5,06-037-4008,15
+2019-04-30,California,Los Angeles,6,37,50,Good,NO2,06-037-4008,16
+2019-05-01,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4008,15
+2019-05-02,California,Los Angeles,6,37,84,Moderate,Ozone,06-037-9033,16
+2019-05-03,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2019-05-04,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-0016,15
+2019-05-05,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,14
+2019-05-06,California,Los Angeles,6,37,46,Good,PM2.5,06-037-4008,16
+2019-05-07,California,Los Angeles,6,37,38,Good,Ozone,06-037-9033,14
+2019-05-08,California,Los Angeles,6,37,42,Good,Ozone,06-037-9033,14
+2019-05-09,California,Los Angeles,6,37,42,Good,Ozone,06-037-9033,16
+2019-05-10,California,Los Angeles,6,37,40,Good,Ozone,06-037-9033,15
+2019-05-11,California,Los Angeles,6,37,48,Good,Ozone,06-037-1201,15
+2019-05-12,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-6012,17
+2019-05-13,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,15
+2019-05-14,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,15
+2019-05-15,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-0016,17
+2019-05-16,California,Los Angeles,6,37,48,Good,Ozone,06-037-1201,15
+2019-05-17,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4008,15
+2019-05-18,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-0002,17
+2019-05-19,California,Los Angeles,6,37,47,Good,Ozone,06-037-5005,15
+2019-05-20,California,Los Angeles,6,37,49,Good,Ozone,06-037-9033,15
+2019-05-21,California,Los Angeles,6,37,48,Good,PM10,06-037-4006,17
+2019-05-22,California,Los Angeles,6,37,42,Good,Ozone,06-037-1201,15
+2019-05-23,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1103,15
+2019-05-24,California,Los Angeles,6,37,50,Good,PM2.5,06-037-4008,17
+2019-05-25,California,Los Angeles,6,37,58,Moderate,Ozone,06-037-6012,15
+2019-05-26,California,Los Angeles,6,37,44,Good,Ozone,06-037-5005,15
+2019-05-27,California,Los Angeles,6,37,48,Good,Ozone,06-037-1201,17
+2019-05-28,California,Los Angeles,6,37,46,Good,PM2.5,06-037-1103,15
+2019-05-29,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-6012,15
+2019-05-30,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,17
+2019-05-31,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-6012,15
+2019-06-01,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,15
+2019-06-02,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-9033,17
+2019-06-03,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-9033,15
+2019-06-04,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-6012,15
+2019-06-05,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2019-06-06,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-06-07,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-6012,15
+2019-06-08,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2019-06-09,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-0016,15
+2019-06-10,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-06-11,California,Los Angeles,6,37,172,Unhealthy,Ozone,06-037-0016,17
+2019-06-12,California,Los Angeles,6,37,200,Unhealthy,Ozone,06-037-6012,15
+2019-06-13,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-6012,15
+2019-06-14,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-6012,17
+2019-06-15,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,15
+2019-06-16,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,15
+2019-06-17,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-9033,17
+2019-06-18,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,15
+2019-06-19,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-06-20,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-9033,17
+2019-06-21,California,Los Angeles,6,37,43,Good,Ozone,06-037-9033,15
+2019-06-22,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-6012,15
+2019-06-23,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,17
+2019-06-24,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-9033,15
+2019-06-25,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,15
+2019-06-26,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-6012,16
+2019-06-27,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-06-28,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-06-29,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2019-06-30,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-07-01,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-07-02,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2019-07-03,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-07-04,California,Los Angeles,6,37,91,Moderate,PM2.5,06-037-1302,15
+2019-07-05,California,Los Angeles,6,37,161,Unhealthy,PM2.5,06-037-0016,17
+2019-07-06,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-07-07,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,15
+2019-07-08,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-6012,17
+2019-07-09,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-6012,15
+2019-07-10,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-07-11,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2019-07-12,California,Los Angeles,6,37,201,Very Unhealthy,Ozone,06-037-6012,15
+2019-07-13,California,Los Angeles,6,37,179,Unhealthy,Ozone,06-037-6012,15
+2019-07-14,California,Los Angeles,6,37,166,Unhealthy,Ozone,06-037-0016,17
+2019-07-15,California,Los Angeles,6,37,177,Unhealthy,Ozone,06-037-0016,15
+2019-07-16,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-07-17,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-6012,17
+2019-07-18,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-0016,15
+2019-07-19,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-0016,15
+2019-07-20,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0016,17
+2019-07-21,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-07-22,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-07-23,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-0016,16
+2019-07-24,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-1201,14
+2019-07-25,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,14
+2019-07-26,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2019-07-27,California,Los Angeles,6,37,179,Unhealthy,Ozone,06-037-0016,15
+2019-07-28,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-6012,15
+2019-07-29,California,Los Angeles,6,37,190,Unhealthy,Ozone,06-037-6012,17
+2019-07-30,California,Los Angeles,6,37,174,Unhealthy,Ozone,06-037-6012,15
+2019-07-31,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-6012,15
+2019-08-01,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2019-08-02,California,Los Angeles,6,37,166,Unhealthy,Ozone,06-037-6012,15
+2019-08-03,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-0016,15
+2019-08-04,California,Los Angeles,6,37,169,Unhealthy,Ozone,06-037-0016,17
+2019-08-05,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,15
+2019-08-06,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-1201,15
+2019-08-07,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,17
+2019-08-08,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-08-09,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-0016,15
+2019-08-10,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-0016,16
+2019-08-11,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-6012,15
+2019-08-12,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-9033,15
+2019-08-13,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2019-08-14,California,Los Angeles,6,37,174,Unhealthy,Ozone,06-037-0016,15
+2019-08-15,California,Los Angeles,6,37,159,Unhealthy,Ozone,06-037-6012,15
+2019-08-16,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-9033,17
+2019-08-17,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-0016,15
+2019-08-18,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-0016,15
+2019-08-19,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-0016,17
+2019-08-20,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-08-21,California,Los Angeles,6,37,197,Unhealthy,Ozone,06-037-6012,15
+2019-08-22,California,Los Angeles,6,37,151,Unhealthy,Ozone,06-037-6012,17
+2019-08-23,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-08-24,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-08-25,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2019-08-26,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,15
+2019-08-27,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-08-28,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-6012,17
+2019-08-29,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-08-30,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-08-31,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2019-09-01,California,Los Angeles,6,37,190,Unhealthy,Ozone,06-037-0016,15
+2019-09-02,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,15
+2019-09-03,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-0016,17
+2019-09-04,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-09-05,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,15
+2019-09-06,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-2005,17
+2019-09-07,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-09-08,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-6012,15
+2019-09-09,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,17
+2019-09-10,California,Los Angeles,6,37,53,Moderate,PM2.5,06-037-0016,15
+2019-09-11,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-09-12,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-2005,17
+2019-09-13,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-2005,15
+2019-09-14,California,Los Angeles,6,37,185,Unhealthy,Ozone,06-037-0016,14
+2019-09-15,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2019-09-16,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1103,14
+2019-09-17,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-6012,15
+2019-09-18,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-9033,17
+2019-09-19,California,Los Angeles,6,37,46,Good,PM2.5,06-037-0016,15
+2019-09-20,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-1201,15
+2019-09-21,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2019-09-22,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-2005,15
+2019-09-23,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,15
+2019-09-24,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-2005,17
+2019-09-25,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-09-26,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-1103,15
+2019-09-27,California,Los Angeles,6,37,42,Good,PM2.5,06-037-0016,17
+2019-09-28,California,Los Angeles,6,37,33,Good,Ozone,06-037-9033,15
+2019-09-29,California,Los Angeles,6,37,46,Good,Ozone,06-037-1201,15
+2019-09-30,California,Los Angeles,6,37,48,Good,PM2.5,06-037-4008,16
+2019-10-01,California,Los Angeles,6,37,52,Moderate,NO2,06-037-4008,15
+2019-10-02,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,16
+2019-10-03,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-1201,16
+2019-10-04,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-6012,15
+2019-10-05,California,Los Angeles,6,37,164,Unhealthy,Ozone,06-037-0016,15
+2019-10-06,California,Los Angeles,6,37,192,Unhealthy,Ozone,06-037-0016,17
+2019-10-07,California,Los Angeles,6,37,133,Unhealthy for Sensitive Groups,Ozone,06-037-0016,15
+2019-10-08,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-9033,15
+2019-10-09,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-9033,17
+2019-10-10,California,Los Angeles,6,37,69,Moderate,PM10,06-037-9033,15
+2019-10-11,California,Los Angeles,6,37,185,Unhealthy,PM2.5,06-037-1201,15
+2019-10-12,California,Los Angeles,6,37,101,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2019-10-13,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2019-10-14,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-6012,15
+2019-10-15,California,Los Angeles,6,37,71,Moderate,NO2,06-037-6012,17
+2019-10-16,California,Los Angeles,6,37,89,Moderate,NO2,06-037-4008,15
+2019-10-17,California,Los Angeles,6,37,80,Moderate,PM10,06-037-9033,15
+2019-10-18,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-0016,17
+2019-10-19,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-4008,15
+2019-10-20,California,Los Angeles,6,37,93,Moderate,Ozone,06-037-0016,15
+2019-10-21,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-2005,17
+2019-10-22,California,Los Angeles,6,37,78,Moderate,NO2,06-037-4008,15
+2019-10-23,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-1201,15
+2019-10-24,California,Los Angeles,6,37,96,Moderate,NO2,06-037-4008,16
+2019-10-25,California,Los Angeles,6,37,87,Moderate,NO2,06-037-4008,15
+2019-10-26,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-6012,15
+2019-10-27,California,Los Angeles,6,37,64,Moderate,PM10,06-037-9033,17
+2019-10-28,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4008,15
+2019-10-29,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,15
+2019-10-30,California,Los Angeles,6,37,60,Moderate,PM10,06-037-4006,16
+2019-10-31,California,Los Angeles,6,37,65,Moderate,NO2,06-037-4008,15
+2019-11-01,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,15
+2019-11-02,California,Los Angeles,6,37,92,Moderate,PM2.5,06-037-4008,16
+2019-11-03,California,Los Angeles,6,37,86,Moderate,PM2.5,06-037-4008,15
+2019-11-04,California,Los Angeles,6,37,97,Moderate,NO2,06-037-4008,15
+2019-11-05,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-4008,16
+2019-11-06,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1103,15
+2019-11-07,California,Los Angeles,6,37,121,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,15
+2019-11-08,California,Los Angeles,6,37,82,Moderate,NO2,06-037-4008,17
+2019-11-09,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-4008,15
+2019-11-10,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-1103,15
+2019-11-11,California,Los Angeles,6,37,93,Moderate,PM2.5,06-037-1201,17
+2019-11-12,California,Los Angeles,6,37,92,Moderate,PM2.5,06-037-1302,15
+2019-11-13,California,Los Angeles,6,37,94,Moderate,PM2.5,06-037-1302,15
+2019-11-14,California,Los Angeles,6,37,88,Moderate,PM2.5,06-037-1602,17
+2019-11-15,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-1103,15
+2019-11-16,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-4004,15
+2019-11-17,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-4008,17
+2019-11-18,California,Los Angeles,6,37,67,Moderate,NO2,06-037-4008,15
+2019-11-19,California,Los Angeles,6,37,74,Moderate,NO2,06-037-4008,15
+2019-11-20,California,Los Angeles,6,37,41,Good,PM2.5,06-037-4008,17
+2019-11-21,California,Los Angeles,6,37,47,Good,PM2.5,06-037-1201,15
+2019-11-22,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-4008,15
+2019-11-23,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-4008,17
+2019-11-24,California,Los Angeles,6,37,109,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,15
+2019-11-25,California,Los Angeles,6,37,103,Unhealthy for Sensitive Groups,PM10,06-037-9033,15
+2019-11-26,California,Los Angeles,6,37,106,Unhealthy for Sensitive Groups,PM10,06-037-9033,17
+2019-11-27,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4008,15
+2019-11-28,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,15
+2019-11-29,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-4008,17
+2019-11-30,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-4008,15
+2019-12-01,California,Los Angeles,6,37,60,Moderate,PM2.5,06-037-1201,15
+2019-12-02,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,17
+2019-12-03,California,Los Angeles,6,37,88,Moderate,PM2.5,06-037-4008,15
+2019-12-04,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-1201,15
+2019-12-05,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1201,16
+2019-12-06,California,Los Angeles,6,37,64,Moderate,PM2.5,06-037-4008,15
+2019-12-07,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-1201,15
+2019-12-08,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4008,17
+2019-12-09,California,Los Angeles,6,37,125,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,15
+2019-12-10,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,15
+2019-12-11,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-4008,17
+2019-12-12,California,Los Angeles,6,37,81,Moderate,PM2.5,06-037-1103,15
+2019-12-13,California,Los Angeles,6,37,96,Moderate,PM2.5,06-037-1103,15
+2019-12-14,California,Los Angeles,6,37,88,Moderate,PM2.5,06-037-1103,16
+2019-12-15,California,Los Angeles,6,37,40,Good,Ozone,06-037-6012,14
+2019-12-16,California,Los Angeles,6,37,48,Good,NO2,06-037-4008,14
+2019-12-17,California,Los Angeles,6,37,54,Moderate,NO2,06-037-4008,17
+2019-12-18,California,Los Angeles,6,37,62,Moderate,NO2,06-037-4008,14
+2019-12-19,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-4008,14
+2019-12-20,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,16
+2019-12-21,California,Los Angeles,6,37,73,Moderate,PM2.5,06-037-1302,14
+2019-12-22,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,14
+2019-12-23,California,Los Angeles,6,37,36,Good,NO2,06-037-4008,17
+2019-12-24,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1201,14
+2019-12-25,California,Los Angeles,6,37,61,Moderate,PM2.5,06-037-1201,14
+2019-12-26,California,Los Angeles,6,37,43,Good,NO2,06-037-4008,16
+2019-12-27,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-4008,14
+2019-12-28,California,Los Angeles,6,37,65,Moderate,PM2.5,06-037-4008,14
+2019-12-29,California,Los Angeles,6,37,82,Moderate,PM2.5,06-037-1201,16
+2019-12-30,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,14
+2019-12-31,California,Los Angeles,6,37,78,Moderate,PM2.5,06-037-4008,14
+2020-01-01,California,Los Angeles,6,37,102,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,17
+2020-01-02,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-1302,16
+2020-01-03,California,Los Angeles,6,37,87,Moderate,PM2.5,06-037-4008,15
+2020-01-04,California,Los Angeles,6,37,104,Unhealthy for Sensitive Groups,PM2.5,06-037-1302,17
+2020-01-05,California,Los Angeles,6,37,103,Unhealthy for Sensitive Groups,PM2.5,06-037-1302,15
+2020-01-06,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-4008,15
+2020-01-07,California,Los Angeles,6,37,49,Good,NO2,06-037-4008,16
+2020-01-08,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,16
+2020-01-09,California,Los Angeles,6,37,49,Good,NO2,06-037-4008,16
+2020-01-10,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-1302,19
+2020-01-11,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-1302,16
+2020-01-12,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-1302,16
+2020-01-13,California,Los Angeles,6,37,80,Moderate,PM2.5,06-037-4008,18
+2020-01-14,California,Los Angeles,6,37,85,Moderate,PM2.5,06-037-4008,16
+2020-01-15,California,Los Angeles,6,37,124,Unhealthy for Sensitive Groups,PM2.5,06-037-4008,16
+2020-01-16,California,Los Angeles,6,37,91,Moderate,PM2.5,06-037-1602,19
+2020-01-17,California,Los Angeles,6,37,40,Good,NO2,06-037-4010,16
+2020-01-18,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4004,16
+2020-01-19,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4004,18
+2020-01-20,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-1302,16
+2020-01-21,California,Los Angeles,6,37,48,Good,PM2.5,06-037-0016,16
+2020-01-22,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,19
+2020-01-23,California,Los Angeles,6,37,58,Moderate,PM2.5,06-037-4010,16
+2020-01-24,California,Los Angeles,6,37,68,Moderate,PM2.5,06-037-1302,16
+2020-01-25,California,Los Angeles,6,37,99,Moderate,PM2.5,06-037-1103,18
+2020-01-26,California,Los Angeles,6,37,130,Unhealthy for Sensitive Groups,PM2.5,06-037-1103,16
+2020-01-27,California,Los Angeles,6,37,77,Moderate,PM2.5,06-037-4008,16
+2020-01-28,California,Los Angeles,6,37,58,Moderate,NO2,06-037-4008,19
+2020-01-29,California,Los Angeles,6,37,54,Moderate,NO2,06-037-4008,16
+2020-01-30,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,16
+2020-01-31,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-4008,18
+2020-02-01,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-4008,16
+2020-02-02,California,Los Angeles,6,37,69,Moderate,PM2.5,06-037-4008,16
+2020-02-03,California,Los Angeles,6,37,54,Moderate,PM10,06-037-4006,19
+2020-02-04,California,Los Angeles,6,37,49,Good,NO2,06-037-4008,16
+2020-02-05,California,Los Angeles,6,37,51,Moderate,PM2.5,06-037-4008,16
+2020-02-06,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,18
+2020-02-07,California,Los Angeles,6,37,76,Moderate,PM2.5,06-037-4008,16
+2020-02-08,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-1302,16
+2020-02-09,California,Los Angeles,6,37,55,Moderate,PM2.5,06-037-1103,19
+2020-02-10,California,Los Angeles,6,37,44,Good,NO2,06-037-1103,16
+2020-02-11,California,Los Angeles,6,37,45,Good,PM2.5,06-037-4008,16
+2020-02-12,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4008,17
+2020-02-13,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4008,16
+2020-02-14,California,Los Angeles,6,37,66,Moderate,PM2.5,06-037-4010,16
+2020-02-15,California,Los Angeles,6,37,74,Moderate,PM2.5,06-037-1302,19
+2020-02-16,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-2005,16
+2020-02-17,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-4010,16
+2020-02-18,California,Los Angeles,6,37,75,Moderate,PM2.5,06-037-1103,18
+2020-02-19,California,Los Angeles,6,37,83,Moderate,PM2.5,06-037-1103,16
+2020-02-20,California,Los Angeles,6,37,78,Moderate,PM2.5,06-037-4008,16
+2020-02-21,California,Los Angeles,6,37,70,Moderate,PM2.5,06-037-4004,19
+2020-02-22,California,Los Angeles,6,37,41,Good,Ozone,06-037-2005,16
+2020-02-23,California,Los Angeles,6,37,54,Moderate,PM2.5,06-037-4010,16
+2020-02-24,California,Los Angeles,6,37,62,Moderate,PM2.5,06-037-4010,18
+2020-02-25,California,Los Angeles,6,37,66,Moderate,NO2,06-037-4008,16
+2020-02-26,California,Los Angeles,6,37,52,Moderate,NO2,06-037-4008,16
+2020-02-27,California,Los Angeles,6,37,57,Moderate,PM2.5,06-037-4008,19
+2020-02-28,California,Los Angeles,6,37,74,Moderate,NO2,06-037-0113,16
+2020-02-29,California,Los Angeles,6,37,50,Good,Ozone,06-037-4010,16
+2020-03-01,California,Los Angeles,6,37,46,Good,Ozone,06-037-2005,17
+2020-03-02,California,Los Angeles,6,37,44,Good,Ozone,06-037-2005,16
+2020-03-03,California,Los Angeles,6,37,44,Good,Ozone,06-037-2005,16
+2020-03-04,California,Los Angeles,6,37,59,Moderate,PM2.5,06-037-1103,18
+2020-03-05,California,Los Angeles,6,37,72,Moderate,PM2.5,06-037-4004,16
+2020-03-06,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1103,16
+2020-03-07,California,Los Angeles,6,37,41,Good,Ozone,06-037-2005,17
+2020-03-08,California,Los Angeles,6,37,42,Good,Ozone,06-037-2005,16
+2020-03-09,California,Los Angeles,6,37,45,Good,NO2,06-037-4008,16
+2020-03-10,California,Los Angeles,6,37,28,Good,Ozone,06-037-2005,18
+2020-03-11,California,Los Angeles,6,37,41,Good,Ozone,06-037-1201,16
+2020-03-12,California,Los Angeles,6,37,43,Good,PM2.5,06-037-4008,15
+2020-03-13,California,Los Angeles,6,37,41,Good,NO2,06-037-4008,17
+2020-03-14,California,Los Angeles,6,37,41,Good,Ozone,06-037-1201,16
+2020-03-15,California,Los Angeles,6,37,43,Good,Ozone,06-037-2005,16
+2020-03-16,California,Los Angeles,6,37,39,Good,NO2,06-037-4008,18
+2020-03-17,California,Los Angeles,6,37,46,Good,NO2,06-037-4008,16
+2020-03-18,California,Los Angeles,6,37,48,Good,NO2,06-037-4008,16
+2020-03-19,California,Los Angeles,6,37,44,Good,Ozone,06-037-1201,17
+2020-03-20,California,Los Angeles,6,37,43,Good,Ozone,06-037-2005,16
+2020-03-21,California,Los Angeles,6,37,47,Good,Ozone,06-037-1201,16
+2020-03-22,California,Los Angeles,6,37,43,Good,Ozone,06-037-2005,18
+2020-03-23,California,Los Angeles,6,37,45,Good,Ozone,06-037-2005,16
+2020-03-24,California,Los Angeles,6,37,43,Good,Ozone,06-037-2005,16
+2020-03-25,California,Los Angeles,6,37,44,Good,Ozone,06-037-2005,17
+2020-03-26,California,Los Angeles,6,37,45,Good,Ozone,06-037-2005,16
+2020-03-27,California,Los Angeles,6,37,48,Good,NO2,06-037-4008,16
+2020-03-28,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-2005,17
+2020-03-29,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-2005,16
+2020-03-30,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-2005,16
+2020-03-31,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-2005,17
+2020-04-01,California,Los Angeles,6,37,67,Moderate,Ozone,06-037-2005,16
+2020-04-02,California,Los Angeles,6,37,50,Good,PM2.5,06-037-4008,16
+2020-04-03,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-2005,17
+2020-04-04,California,Los Angeles,6,37,52,Moderate,PM2.5,06-037-4010,16
+2020-04-05,California,Los Angeles,6,37,37,Good,Ozone,06-037-1701,16
+2020-04-06,California,Los Angeles,6,37,41,Good,Ozone,06-037-1201,17
+2020-04-07,California,Los Angeles,6,37,40,Good,Ozone,06-037-1201,16
+2020-04-08,California,Los Angeles,6,37,51,Moderate,NO2,06-037-4008,16
+2020-04-09,California,Los Angeles,6,37,35,Good,Ozone,06-037-2005,17
+2020-04-10,California,Los Angeles,6,37,42,Good,Ozone,06-037-2005,16
+2020-04-11,California,Los Angeles,6,37,49,Good,Ozone,06-037-2005,16
+2020-04-12,California,Los Angeles,6,37,41,Good,PM2.5,06-037-4010,17
+2020-04-13,California,Los Angeles,6,37,38,Good,Ozone,06-037-9033,16
+2020-04-14,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-0016,16
+2020-04-15,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-2005,17
+2020-04-16,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-2005,16
+2020-04-17,California,Los Angeles,6,37,43,Good,Ozone,06-037-1701,16
+2020-04-18,California,Los Angeles,6,37,40,Good,Ozone,06-037-2005,17
+2020-04-19,California,Los Angeles,6,37,44,Good,Ozone,06-037-2005,16
+2020-04-20,California,Los Angeles,6,37,43,Good,PM2.5,06-037-4010,16
+2020-04-21,California,Los Angeles,6,37,48,Good,PM2.5,06-037-0016,17
+2020-04-22,California,Los Angeles,6,37,100,Moderate,Ozone,06-037-0016,16
+2020-04-23,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2020-04-24,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-1701,17
+2020-04-25,California,Los Angeles,6,37,182,Unhealthy,Ozone,06-037-2005,16
+2020-04-26,California,Los Angeles,6,37,166,Unhealthy,Ozone,06-037-2005,16
+2020-04-27,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2020-04-28,California,Los Angeles,6,37,185,Unhealthy,Ozone,06-037-6012,15
+2020-04-29,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-6012,15
+2020-04-30,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2020-05-01,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-0016,15
+2020-05-02,California,Los Angeles,6,37,90,Moderate,Ozone,06-037-0016,15
+2020-05-03,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-0016,16
+2020-05-04,California,Los Angeles,6,37,115,Unhealthy for Sensitive Groups,Ozone,06-037-2005,15
+2020-05-05,California,Los Angeles,6,37,159,Unhealthy,Ozone,06-037-1701,15
+2020-05-06,California,Los Angeles,6,37,206,Very Unhealthy,Ozone,06-037-0016,16
+2020-05-07,California,Los Angeles,6,37,203,Very Unhealthy,Ozone,06-037-2005,15
+2020-05-08,California,Los Angeles,6,37,185,Unhealthy,Ozone,06-037-6012,16
+2020-05-09,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2020-05-10,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-2005,16
+2020-05-11,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-2005,16
+2020-05-12,California,Los Angeles,6,37,39,Good,Ozone,06-037-1701,17
+2020-05-13,California,Los Angeles,6,37,49,Good,Ozone,06-037-2005,16
+2020-05-14,California,Los Angeles,6,37,48,Good,Ozone,06-037-1701,16
+2020-05-15,California,Los Angeles,6,37,87,Moderate,Ozone,06-037-0016,17
+2020-05-16,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2020-05-17,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-2005,16
+2020-05-18,California,Los Angeles,6,37,39,Good,Ozone,06-037-1201,17
+2020-05-19,California,Los Angeles,6,37,45,Good,Ozone,06-037-1701,16
+2020-05-20,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-1701,16
+2020-05-21,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-2005,17
+2020-05-22,California,Los Angeles,6,37,67,Moderate,PM2.5,06-037-1201,16
+2020-05-23,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-2005,16
+2020-05-24,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-0016,17
+2020-05-25,California,Los Angeles,6,37,140,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2020-05-26,California,Los Angeles,6,37,147,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2020-05-27,California,Los Angeles,6,37,136,Unhealthy for Sensitive Groups,Ozone,06-037-1201,17
+2020-05-28,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-6012,16
+2020-05-29,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-9033,16
+2020-05-30,California,Los Angeles,6,37,56,Moderate,PM2.5,06-037-1602,17
+2020-05-31,California,Los Angeles,6,37,54,Moderate,Ozone,06-037-2005,16
+2020-06-01,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-1701,16
+2020-06-02,California,Los Angeles,6,37,122,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2020-06-03,California,Los Angeles,6,37,129,Unhealthy for Sensitive Groups,Ozone,06-037-0016,16
+2020-06-04,California,Los Angeles,6,37,108,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2020-06-05,California,Los Angeles,6,37,49,Good,PM2.5,06-037-1201,17
+2020-06-06,California,Los Angeles,6,37,38,Good,Ozone,06-037-4010,16
+2020-06-07,California,Los Angeles,6,37,48,Good,Ozone,06-037-1701,16
+2020-06-08,California,Los Angeles,6,37,74,Moderate,Ozone,06-037-2005,17
+2020-06-09,California,Los Angeles,6,37,80,Moderate,Ozone,06-037-1701,16
+2020-06-10,California,Los Angeles,6,37,143,Unhealthy for Sensitive Groups,Ozone,06-037-2005,16
+2020-06-11,California,Los Angeles,6,37,161,Unhealthy,Ozone,06-037-0016,17
+2020-06-12,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-0016,16
+2020-06-13,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-0016,16
+2020-06-14,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-6012,17
+2020-06-15,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2020-06-16,California,Los Angeles,6,37,61,Moderate,Ozone,06-037-6012,16
+2020-06-17,California,Los Angeles,6,37,71,Moderate,Ozone,06-037-6012,17
+2020-06-18,California,Los Angeles,6,37,64,Moderate,Ozone,06-037-6012,16
+2020-06-19,California,Los Angeles,6,37,97,Moderate,Ozone,06-037-6012,16
+2020-06-20,California,Los Angeles,6,37,77,Moderate,Ozone,06-037-9033,17
+2020-06-21,California,Los Angeles,6,37,105,Unhealthy for Sensitive Groups,Ozone,06-037-1701,16
+2020-06-22,California,Los Angeles,6,37,154,Unhealthy,Ozone,06-037-6012,16
+2020-06-23,California,Los Angeles,6,37,159,Unhealthy,Ozone,06-037-6012,17
+2020-06-24,California,Los Angeles,6,37,156,Unhealthy,Ozone,06-037-6012,16
+2020-06-25,California,Los Angeles,6,37,112,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2020-06-26,California,Los Angeles,6,37,126,Unhealthy for Sensitive Groups,Ozone,06-037-6012,17
+2020-06-27,California,Los Angeles,6,37,119,Unhealthy for Sensitive Groups,Ozone,06-037-6012,16
+2020-06-28,California,Los Angeles,6,37,42,Good,PM10,06-037-9033,16
+2020-06-29,California,Los Angeles,6,37,44,Good,Ozone,06-037-6012,17
+2020-06-30,California,Los Angeles,6,37,51,Moderate,Ozone,06-037-9033,16
+2020-07-01,California,Los Angeles,6,37,2,Good,CO,06-037-2005,12
