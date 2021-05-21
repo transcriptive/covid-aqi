@@ -74,3 +74,6 @@ The traffic data cleaning process consisted of downloading the county, state, an
 
 ## Conclusion
 The most noticeable drop in AQI occurred in Los Angeles, at the beginning of their lockdown period. New York City, with a much lower reliance on personal vehicles for transportation, did not see as many notable drops. What drops did occur were temporary, however, and the AQI rebounded to more normal levels as commercial traffic started up again. Additional forms of pollution, such as wildfires, have a significant additive property and are not accounted for by decreased levels of mobility during lockdown.
+
+### Recommendations
+Encourage people to travel less frequently, or to use public transportation, to decrease the AQI and increase overall air quality.
